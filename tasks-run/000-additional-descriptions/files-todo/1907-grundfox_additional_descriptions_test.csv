@@ -1,0 +1,89 @@
+id,additional_description
+5027468,"<div id=""specifications"">
+<table class=""dontsplit"">
+				<thead><tr><th colspan=""2""> </th></tr></thead>
+				<tbody>
+<tr><td>Product name: </td><td data-label=""Product name"">UPS 53-55/57/2 F</td></tr>
+<tr><td>Product No.: </td><td data-label=""Product No."">96654375</td></tr>
+<tr><td>EAN: </td><td data-label=""EAN"">5700836884922</td></tr>
+</tbody>
+			</table>
+<table class=""dontsplit"">
+				<thead><tr><th colspan=""2"">Technical </th></tr></thead>
+				<tbody>
+<tr><td>Speed Number: </td><td data-label=""Speed Number"">3</td></tr>
+<tr><td>Head max: </td><td data-label=""Head max"">55/57 dm</td></tr>
+<tr><td>Approvals on nameplate: </td><td data-label=""Approvals on nameplate"">CUL</td></tr>
+<tr><td>Model: </td><td data-label=""Model"">C</td></tr>
+</tbody>
+			</table>
+<table class=""dontsplit"">
+				<thead><tr><th colspan=""2"">Materials </th></tr></thead>
+				<tbody>
+<tr><td>Pump housing: </td><td data-label=""Pump housing"">Cast iron</td></tr>
+<tr><td>Pump housing: </td><td data-label=""Pump housing"">EN-JL1040</td></tr>
+<tr><td>Pump housing: </td><td data-label=""Pump housing"">ASTM 35 B - 40 B</td></tr>
+<tr><td>Impeller: </td><td data-label=""Impeller"">Stainless steel</td></tr>
+<tr><td>Impeller: </td><td data-label=""Impeller"">DIN W.-Nr. 1.4301</td></tr>
+<tr><td>Impeller: </td><td data-label=""Impeller"">AISI 304</td></tr>
+</tbody>
+			</table>
+<table class=""dontsplit"">
+				<thead><tr><th colspan=""2"">Installation </th></tr></thead>
+				<tbody>
+<tr><td>Range of ambient temperature: </td><td data-label=""Range of ambient temperature"">32 .. 104 °F</td></tr>
+<tr><td>Maximum operating pressure: </td><td data-label=""Maximum operating pressure"">145 psi</td></tr>
+<tr><td>Flange standard: </td><td data-label=""Flange standard"">USA</td></tr>
+<tr><td>Type of connection: </td><td data-label=""Type of connection"">F</td></tr>
+<tr><td>Pipe connection: </td><td data-label=""Pipe connection"">GF 53</td></tr>
+<tr><td>Pressure stage: </td><td data-label=""Pressure stage"">145 psi</td></tr>
+<tr><td>Port-to-port length: </td><td data-label=""Port-to-port length"">11 7/8 in</td></tr>
+</tbody>
+			</table>
+<table class=""dontsplit"">
+				<thead><tr><th colspan=""2"">Liquid </th></tr></thead>
+				<tbody>
+<tr><td>Pumped liquid: </td><td data-label=""Pumped liquid"">Water</td></tr>
+<tr><td>Liquid temperature range: </td><td data-label=""Liquid temperature range"">14 .. 248 °F</td></tr>
+<tr><td>Liquid temperature during operation: </td><td data-label=""Liquid temperature during operation"">140 °F</td></tr>
+<tr><td>Density: </td><td data-label=""Density"">61.35 lb/ft³</td></tr>
+</tbody>
+			</table>
+<table class=""dontsplit"">
+				<thead><tr><th colspan=""2"">Electrical data </th></tr></thead>
+				<tbody>
+<tr><td>Power input in speed 1: </td><td data-label=""Power input in speed 1"">400 W</td></tr>
+<tr><td>Power input in speed 2: </td><td data-label=""Power input in speed 2"">440 W</td></tr>
+<tr><td>Max. power input: </td><td data-label=""Max. power input"">610 W</td></tr>
+<tr><td>Main frequency: </td><td data-label=""Main frequency"">60 Hz</td></tr>
+<tr><td>Rated voltage: </td><td data-label=""Rated voltage"">3 x 208-230 V</td></tr>
+<tr><td>Current in speed 1: </td><td data-label=""Current in speed 1"">1.08 A</td></tr>
+<tr><td>Current in speed 2: </td><td data-label=""Current in speed 2"">1.2 A</td></tr>
+<tr><td>Current in speed 3: </td><td data-label=""Current in speed 3"">1.92 A</td></tr>
+<tr><td>Cos phi in speed 1: </td><td data-label=""Cos phi in speed 1"">0,93</td></tr>
+<tr><td>Cos phi in speed 2: </td><td data-label=""Cos phi in speed 2"">0,92</td></tr>
+<tr><td>Cos phi: </td><td data-label=""Cos phi"">0,8</td></tr>
+<tr><td>Number of poles: </td><td data-label=""Number of poles"">2</td></tr>
+<tr><td>Enclosure class (IEC 34-5): </td><td data-label=""Enclosure class (IEC 34-5)"">X4D</td></tr>
+<tr><td>Insulation class (IEC 85): </td><td data-label=""Insulation class (IEC 85)"">F</td></tr>
+<tr><td>Motor protection: </td><td data-label=""Motor protection"">CONTACT</td></tr>
+<tr><td>Thermal protec: </td><td data-label=""Thermal protec"">external</td></tr>
+</tbody>
+			</table>
+<table class=""dontsplit"">
+				<thead><tr><th colspan=""2"">Controls </th></tr></thead>
+				<tbody>
+<tr><td>Relay: </td><td data-label=""Relay"">without relay</td></tr>
+<tr><td>Pos term box: </td><td data-label=""Pos term box"">1.30H</td></tr>
+</tbody>
+			</table>
+<table class=""dontsplit"">
+				<thead><tr><th colspan=""2"">Others </th></tr></thead>
+				<tbody>
+<tr><td>Net weight: </td><td data-label=""Net weight"">52.3 lb</td></tr>
+<tr><td>Gross weight: </td><td data-label=""Gross weight"">54 lb</td></tr>
+<tr><td>Shipping volume: </td><td data-label=""Shipping volume"">2.08 ft³</td></tr>
+<tr><td>Sales region: </td><td data-label=""Sales region"">Namreg</td></tr>
+</tbody>
+			</table>
+</div>"

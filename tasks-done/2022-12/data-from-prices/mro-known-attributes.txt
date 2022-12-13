@@ -1,0 +1,83 @@
+Grove Gear: (done)
+- Ratio
+- Reducer Type
+- Bore
+- Input Type
+- Size
+- Output Type
+- Frame
+- Gearing Stages
+- Shaft Arrangement
+
+
+KopFlex: (done)
+- Coupling Size
+- OD
+- Width
+
+
+Rexnord chain: (done)
+- Roller Width
+- Maximum Allowable Load
+- Average Ultimate Strength
+- Plate Height
+- Chain Pitch
+- Pitch
+- Pin Diameter
+- Number Of Teeth
+- Strands
+- Plate Thickness
+- Roller Diameter
+
+
+Rexnord conveying: (done)
+- Belt Thickness (in)
+- Package Configuration
+- Fastener Material
+- Mechanical Fastener Rating (P.I.W)
+- Belt Thickness (mm)
+- Thickness (in)
+- Mechanical Fastener Rating (kN/m)
+- Minimum Pulley Diameter (in)
+- Minimum Pulley Diameter (mm)
+
+
+Rexnord couplings:
+- Material
+- Outside Dia
+- Product Size
+- Component Type
+- OD
+- I.D.
+- Maximum RPM
+
+
+Rexnord gearing:
+- Input Style
+- Gear Type
+- Output shaft
+- Input HP
+- Series Code
+- Motor Frame Size
+- Output Diameter (in)
+- Housing material
+- Model Code
+- Service Factor
+- Product Line
+- Output RPM
+- Product Type
+- Output Torque
+- Input Diameter (in)
+
+
+Rexnord linkbelt:
+- O.D.
+- Bearing Type
+- Locking
+- I.D.
+- Cage
+- Enclosure
+- Clearance
+- Material
+- Width
+
