@@ -28,7 +28,9 @@ TRUNCATE TABLE raw_attributes;
 
 
 
--- Or load data from scraped .csv file.
+/*
+    Or load data from scraped .csv file.
+*/
 INSERT INTO raw_attributes(id, catalog_number, is_visible, attributes)
 SELECT
     mro.id id,
@@ -48,8 +50,9 @@ GROUP BY
 
 
 
--- Find and add MRO ID (SKU).
-
+/*
+    Find and add MRO ID (SKU).
+*/
 DELETE FROM temp_mro_rexnord
 WHERE ROWID NOT IN (
     SELECT MIN(ROWID)

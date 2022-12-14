@@ -14,10 +14,7 @@ SELECT
 FROM preliminary_attributes
 WHERE
     attribute_name in (
-        'Bearing Type'
-        , 'Mounted Clearance'
-        , 'Frame Material'
-        , 'Shaft Locking'
+        'I.D.'
     )
     AND id IS NOT NULL
 GROUP BY id;
@@ -30,10 +27,7 @@ SELECT
 FROM preliminary_attributes
 WHERE
     attribute_name NOT IN (
-        'Bearing Type'
-        , 'Mounted Clearance'
-        , 'Frame Material'
-        , 'Shaft Locking'
+        'I.D.'
     )
 GROUP BY id;
 
