@@ -30,18 +30,6 @@ where upper(attribute_name) like upper('%Thread%')
 
 
 
-
-
-/*
-    Move measure units from attribute values to attribute names.
-*/
-BEGIN
-    ATTRIBUTES_PKG.MOVE_MEASURE_UNITS_FROM_ATTRIBUTE_VALUES_TO_ATTRIBUTE_NAMES();
-END;
-/
-
-
-
 /*
     Custom updates.
 */
@@ -65,6 +53,9 @@ where attribute_name in (
 
 delete from preliminary_attributes
 where attribute_name is null;
+
+delete from preliminary_attributes
+where attribute_name = 'Country of Origin (subject to change)';
 
 
 

@@ -3,8 +3,8 @@
 */
 UPDATE preliminary_attributes
 SET
-    attribute_name = regexp_replace(attribute_name, ' +', ' '),
-    attribute_value = regexp_replace(attribute_value, ' +', ' ');
+    attribute_name = trim(regexp_replace(attribute_name, ' +', ' ')),
+    attribute_value = trim(regexp_replace(attribute_value, ' +', ' '));
 
 
 -- Export attributes
@@ -14,7 +14,22 @@ SELECT
 FROM preliminary_attributes
 WHERE
     attribute_name in (
-        'I.D.'
+        'Height (in)'
+        , 'Width (in)'
+        , 'Double-Sided'
+        , 'Header'
+        , 'Legend'
+        , 'Sign Material'
+        , 'Sign Shape'
+        , 'Sign Background Color'
+        , 'Color'
+        , 'Overall Length (in)'
+        , 'Overall Width (in)'
+        , 'Material'
+        , 'Overall Height (in)'
+        , 'Depth (in)'
+        , 'Length (in)'
+        , 'Finish'
     )
     AND id IS NOT NULL
 GROUP BY id;
@@ -27,7 +42,22 @@ SELECT
 FROM preliminary_attributes
 WHERE
     attribute_name NOT IN (
-        'I.D.'
+        'Height (in)'
+        , 'Width (in)'
+        , 'Double-Sided'
+        , 'Header'
+        , 'Legend'
+        , 'Sign Material'
+        , 'Sign Shape'
+        , 'Sign Background Color'
+        , 'Color'
+        , 'Overall Length (in)'
+        , 'Overall Width (in)'
+        , 'Material'
+        , 'Overall Height (in)'
+        , 'Depth (in)'
+        , 'Length (in)'
+        , 'Finish'
     )
 GROUP BY id;
 

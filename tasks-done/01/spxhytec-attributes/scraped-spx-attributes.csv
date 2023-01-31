@@ -1,0 +1,738 @@
+file_name,catalog_number,attribute_name,attribute_value
+1%20(10),100223,Length (in),5.75
+1%20(10),100223,Port Size,1/4 NPTF
+1%20(10),100223,Height (in),2
+1%20(10),100223,Width (in),4.875
+1%20(100),100849,Stroke Length (in),1.938
+1%20(101),100859,Stroke Length (in),1.267
+1%20(102),100860,Stroke Length (in),1.267
+1%20(103),100863,Length (in),2.856
+1%20(103),100863,Stroke Length (in),0.188
+1%20(103),100863,Port Size,7/16-20UNF SAE-4
+1%20(103),100863,Width (in),1.625
+1%20(104),100868,Stroke Length (in),1.267
+1%20(105),100870,Stroke Length (in),1.163
+1%20(106),100871,Stroke Length (in),1.938
+1%20(107),100889,Stroke Length (in),1.267
+1%20(108),100890,Stroke Length (in),1.267
+1%20(109),100891,Stroke Length (in),1.267
+1%20(11),100279,Length (in),10
+1%20(11),100279,Port Size,38721
+1%20(11),100279,Width (in),5
+1%20(110),100892,Stroke Length (in),1.267
+1%20(111),100893,Stroke Length (in),1.267
+1%20(112),100894,Stroke Length (in),1.267
+1%20(113),100895,Stroke Length (in),1.267
+1%20(114),100896,Stroke Length (in),1.267
+1%20(115),100897,Stroke Length (in),1.267
+1%20(116),100898,Stroke Length (in),1.625
+1%20(117),100899,Stroke Length (in),1.625
+1%20(118),100900,Stroke Length (in),1.625
+1%20(119),100901,Stroke Length (in),1.625
+1%20(12),100879,Length (in),14.125
+1%20(12),100879,Width (in),11.5
+1%20(120),100902,Stroke Length (in),1.625
+1%20(121),100903,Stroke Length (in),1.625
+1%20(122),100904,Stroke Length (in),1.625
+1%20(123),100905,Stroke Length (in),1.625
+1%20(124),100906,Stroke Length (in),1.625
+1%20(129),100914,Width (in),3.5
+1%20(13),100888,Length (in),14.125
+1%20(13),100888,Width (in),11.5
+1%20(131),100945,Stroke Length (in),0.818
+1%20(132),100946,Stroke Length (in),0.818
+1%20(133),100947,Stroke Length (in),0.818
+1%20(134),100948,Stroke Length (in),0.818
+1%20(135),100949,Stroke Length (in),0.818
+1%20(136),100950,Stroke Length (in),0.818
+1%20(137),100951,Stroke Length (in),0.818
+1%20(138),100952,Stroke Length (in),0.818
+1%20(139),100953,Stroke Length (in),0.818
+1%20(14),110050,Length (in),5.868
+1%20(14),110050,Port Size,Manifold Mount
+1%20(14),110050,Height (in),3.083
+1%20(14),110050,Width (in),3.7
+1%20(140),100954,Stroke Length (in),0.818
+1%20(141),100955,Stroke Length (in),0.818
+1%20(142),100956,Stroke Length (in),0.818
+1%20(143),100957,Stroke Length (in),0.818
+1%20(144),100958,Stroke Length (in),0.818
+1%20(145),100959,Stroke Length (in),0.818
+1%20(146),100960,Stroke Length (in),1.267
+1%20(147),100961,Stroke Length (in),1.267
+1%20(148),100962,Stroke Length (in),1.267
+1%20(149),100963,Stroke Length (in),1.267
+1%20(15),110051,Length (in),5.68
+1%20(15),110051,Port Size,7/16-20UNF SAE-4
+1%20(15),110051,Height (in),3.083
+1%20(15),110051,Width (in),3.7
+1%20(150),100964,Stroke Length (in),1.267
+1%20(151),100965,Stroke Length (in),1.267
+1%20(152),100976,Stroke Length (in),0.818
+1%20(153),100977,Stroke Length (in),0.818
+1%20(154),100978,Stroke Length (in),0.818
+1%20(155),100979,Width (in),1.593
+1%20(157),100986,Length (in),2.49
+1%20(157),100986,Stroke Length (in),0.188
+1%20(157),100986,Width (in),1.625
+1%20(158),100988,Stroke Length (in),1.625
+1%20(159),100989,Stroke Length (in),1.625
+1%20(16),110052,Length (in),5.68
+1%20(16),110052,Port Size,1/4 NPTF
+1%20(16),110052,Height (in),3.083
+1%20(16),110052,Width (in),3.7
+1%20(160),100990,Stroke Length (in),1.625
+1%20(161),110001,Stroke Length (in),0.638
+1%20(162),110002,Stroke Length (in),0.638
+1%20(163),110003,Stroke Length (in),0.638
+1%20(164),110004,Stroke Length (in),0.638
+1%20(165),110005,Stroke Length (in),0.638
+1%20(166),110006,Stroke Length (in),0.638
+1%20(167),110007,Stroke Length (in),0.638
+1%20(168),110008,Stroke Length (in),0.638
+1%20(169),110009,Stroke Length (in),0.638
+1%20(170),110010,Stroke Length (in),0.638
+1%20(171),110011,Stroke Length (in),0.638
+1%20(172),110012,Stroke Length (in),0.638
+1%20(173),110013,Stroke Length (in),0.638
+1%20(174),110014,Stroke Length (in),0.638
+1%20(175),110015,Stroke Length (in),0.638
+1%20(176),110016,Stroke Length (in),0.638
+1%20(177),110017,Stroke Length (in),0.638
+1%20(178),110018,Stroke Length (in),0.638
+1%20(179),110053,Stroke Length (in),0.818
+1%20(180),110054,Stroke Length (in),0.818
+1%20(181),110055,Stroke Length (in),0.818
+1%20(182),110056,Stroke Length (in),0.818
+1%20(183),110057,Stroke Length (in),0.818
+1%20(184),110058,Stroke Length (in),0.818
+1%20(185),110079,Stroke Length (in),1.267
+1%20(186),110080,Stroke Length (in),1.267
+1%20(187),110081,Stroke Length (in),1.267
+1%20(188),110082,Stroke Length (in),1.267
+1%20(189),110083,Stroke Length (in),1.267
+1%20(190),110084,Stroke Length (in),1.267
+1%20(191),110089,Stroke Length (in),1.625
+1%20(192),110090,Stroke Length (in),1.625
+1%20(193),110091,Stroke Length (in),1.625
+1%20(194),110092,Stroke Length (in),1.625
+1%20(195),110093,Stroke Length (in),1.625
+1%20(196),110094,Stroke Length (in),1.625
+1%20(197),110095,Stroke Length (in),1.625
+1%20(198),110096,Stroke Length (in),1.625
+1%20(199),110097,Stroke Length (in),1.625
+1%20(2),100222,Length (in),6.378
+1%20(2),100222,Port Size,1/4 NPT
+1%20(200),110098,Stroke Length (in),1.625
+1%20(201),110099,Stroke Length (in),1.625
+1%20(202),110100,Stroke Length (in),1.625
+1%20(207),110110,Stroke Length (in),0.818
+1%20(208),110111,Stroke Length (in),0.818
+1%20(209),110112,Stroke Length (in),0.818
+1%20(21),100179-230,Length (in),14.875
+1%20(21),100179-230,Width (in),9.25
+1%20(210),110113,Stroke Length (in),0.818
+1%20(211),110114,Stroke Length (in),0.818
+1%20(212),110115,Stroke Length (in),0.818
+1%20(213),110116,Stroke Length (in),1.267
+1%20(214),110117,Stroke Length (in),1.267
+1%20(215),110118,Stroke Length (in),1.267
+1%20(216),110119,Stroke Length (in),1.267
+1%20(217),110120,Stroke Length (in),1.267
+1%20(218),110121,Stroke Length (in),1.267
+1%20(219),110126,Stroke Length (in),0.638
+1%20(220),110127,Stroke Length (in),0.638
+1%20(221),110128,Stroke Length (in),0.638
+1%20(222),110129,Stroke Length (in),0.638
+1%20(223),110130,Stroke Length (in),0.638
+1%20(224),110131,Stroke Length (in),0.638
+1%20(225),110144,Stroke Length (in),0.638
+1%20(226),110145,Stroke Length (in),0.638
+1%20(227),110146,Stroke Length (in),0.638
+1%20(228),110147,Stroke Length (in),0.638
+1%20(229),110148,Stroke Length (in),0.638
+1%20(230),110149,Stroke Length (in),0.638
+1%20(231),110150,Stroke Length (in),0.638
+1%20(232),110151,Stroke Length (in),0.638
+1%20(233),110152,Stroke Length (in),0.638
+1%20(234),110153,Stroke Length (in),0.638
+1%20(235),110154,Stroke Length (in),0.638
+1%20(236),110155,Stroke Length (in),0.638
+1%20(237),110173,Stroke Length (in),0.873
+1%20(238),110174,Stroke Length (in),0.873
+1%20(239),110175,Stroke Length (in),0.873
+1%20(24),100879-230,Length (in),14.125
+1%20(24),100879-230,Width (in),11.5
+1%20(240),110176,Stroke Length (in),0.873
+1%20(241),110177,Stroke Length (in),0.873
+1%20(242),110178,Stroke Length (in),0.873
+1%20(243),110179,Stroke Length (in),0.873
+1%20(244),110180,Stroke Length (in),0.873
+1%20(245),110181,Stroke Length (in),0.873
+1%20(246),110182,Stroke Length (in),0.873
+1%20(247),110183,Stroke Length (in),0.873
+1%20(248),110184,Stroke Length (in),0.873
+1%20(25),100888-230,Length (in),14.125
+1%20(25),100888-230,Width (in),11.5
+1%20(252),110188,Width (in),2.062
+1%20(253),110191,Stroke Length (in),0.873
+1%20(254),110192,Stroke Length (in),0.873
+1%20(255),110193,Stroke Length (in),0.873
+1%20(256),110194,Stroke Length (in),0.873
+1%20(257),110195,Stroke Length (in),0.873
+1%20(258),110196,Stroke Length (in),0.873
+1%20(26),100843,Length (in),3.75
+1%20(26),100843,Port Size,1/4 NPTF
+1%20(26),100843,Height (in),5.562
+1%20(26),100843,Width (in),2.66
+1%20(263),110101,Length (in),5.938
+1%20(263),110101,Stroke Length (in),0.31
+1%20(263),110101,Width (in),2.75
+1%20(264),110102,Length (in),5.938
+1%20(264),110102,Stroke Length (in),0.31
+1%20(264),110102,Width (in),2.75
+1%20(265),110103,Length (in),6.5
+1%20(265),110103,Stroke Length (in),0.487
+1%20(265),110103,Width (in),3
+1%20(266),110104,Length (in),6.5
+1%20(266),110104,Stroke Length (in),0.487
+1%20(266),110104,Width (in),3
+1%20(267),110105,Length (in),7.375
+1%20(267),110105,Stroke Length (in),0.446
+1%20(267),110105,Width (in),3.5
+1%20(268),110106,Length (in),7.375
+1%20(268),110106,Stroke Length (in),0.446
+1%20(268),110106,Width (in),3.5
+1%20(269),110107,Stroke Length (in),0.31
+1%20(269),110107,Port Size,7/16-20UNF SAE-4
+1%20(27),9608,Length (in),4.687
+1%20(27),9608,Height (in),7.75
+1%20(27),9608,Width (in),1.82
+1%20(270),110108,Stroke Length (in),0.487
+1%20(270),110108,Port Size,7/16-20UNF SAE-5
+1%20(271),110109,Stroke Length (in),0.446
+1%20(271),110109,Port Size,7/16-20UNF SAE-6
+1%20(272),10390,Thread Size,1/2-20 UNF
+1%20(272),10390,Width (in),0.312
+1%20(273),10391,Thread Size,1/2-13 UNC
+1%20(273),10391,Width (in),0.312
+1%20(274),10394,Thread Size,5/8-18 UNF
+1%20(274),10394,Width (in),0.375
+1%20(275),10395,Thread Size,5/8-11 UNC
+1%20(275),10395,Width (in),0.375
+1%20(276),10396,Thread Size,3/4-16 UNF
+1%20(276),10396,Width (in),0.422
+1%20(277),10397,Thread Size,3/4-10 UNC
+1%20(277),10397,Width (in),0.422
+1%20(278),100064,Thread Size,1/2-13 UNC
+1%20(278),100064,Length (in),1.636
+1%20(278),100064,Stroke Length (in),0.25
+1%20(279),100065,Thread Size,1/2-13 UNC
+1%20(279),100065,Length (in),2.042
+1%20(279),100065,Stroke Length (in),0.5
+1%20(28),9613,Length (in),5.312
+1%20(28),9613,Port Size,1/4 NPTF
+1%20(28),9613,Height (in),1
+1%20(28),9613,Width (in),2.75
+1%20(280),100139,Thread Size,5/16-11 UNC
+1%20(280),100139,Length (in),1.655
+1%20(280),100139,Stroke Length (in),0.25
+1%20(281),100148,Thread Size,5/16-11 UNC
+1%20(281),100148,Length (in),2.225
+1%20(281),100148,Stroke Length (in),0.5
+1%20(282),100149,Thread Size,3/4-10 UNC
+1%20(282),100149,Length (in),1.756
+1%20(282),100149,Stroke Length (in),0.5
+1%20(283),100153,Thread Size,3/4-10 UNC
+1%20(283),100153,Length (in),2.475
+1%20(283),100153,Stroke Length (in),1
+1%20(284),100156,Thread Size,1/2-20 UNF
+1%20(284),100156,Length (in),1.636
+1%20(284),100156,Stroke Length (in),0.25
+1%20(285),100157,Thread Size,1/2-20 UNF
+1%20(285),100157,Length (in),2.042
+1%20(285),100157,Stroke Length (in),0.5
+1%20(286),100159,Thread Size,5/8-18 UNF
+1%20(286),100159,Length (in),1.655
+1%20(286),100159,Stroke Length (in),0.25
+1%20(287),100166,Thread Size,5/8-18 UNF
+1%20(287),100166,Length (in),2.225
+1%20(287),100166,Stroke Length (in),0.5
+1%20(288),100167,Thread Size,3/4-16 UNF
+1%20(288),100167,Length (in),1.756
+1%20(288),100167,Stroke Length (in),0.5
+1%20(289),100171,Thread Size,3/4-16 UNF
+1%20(289),100171,Length (in),2.475
+1%20(289),100171,Stroke Length (in),1
+1%20(29),100128,Length (in),4
+1%20(29),100128,Height (in),7
+1%20(29),100128,Width (in),1.875
+1%20(290),100172,Thread Size,1-12 UNF
+1%20(290),100172,Length (in),2.005
+1%20(290),100172,Stroke Length (in),0.5
+1%20(291),100173,Thread Size,1-12 UNF
+1%20(291),100173,Length (in),2.626
+1%20(291),100173,Stroke Length (in),1
+1%20(292),110059,Stroke Length (in),0.123
+1%20(292),110059,Width (in),0.485
+1%20(293),100201,Stroke Length (in),0.437
+1%20(293),100201,Port Size,1/4 NPTF
+1%20(293),100201,Width (in),2.19
+1%20(294),100202,Stroke Length (in),0.437
+1%20(294),100202,Port Size,1/4 NPTF
+1%20(294),100202,Width (in),3
+1%20(295),100203,Stroke Length (in),0.562
+1%20(295),100203,Port Size,1/4 NPTF
+1%20(295),100203,Width (in),1.635
+1%20(296),100208,Thread Size,1-5/16-16 UNF
+1%20(296),100208,Length (in),3.312
+1%20(296),100208,Stroke Length (in),1
+1%20(297),100855,Stroke Length (in),0.562
+1%20(297),100855,Port Size,1/4 NPTF
+1%20(297),100855,Width (in),1.625
+1%20(298),100866,Stroke Length (in),0.312
+1%20(299),100867,Stroke Length (in),0.312
+1%20(3),100982,Length (in),5.319
+1%20(30),100129,Length (in),5.25
+1%20(30),100129,Height (in),1.375
+1%20(30),100129,Width (in),2.5
+1%20(300),100880,Stroke Length (in),0.312
+1%20(301),100925,Stroke Length (in),0.875
+1%20(301),100925,Port Size,1/4 NPTF
+1%20(301),100925,Width (in),1.625
+1%20(302),100927,Length (in),1.2
+1%20(303),100928,Length (in),1.2
+1%20(304),100929,Length (in),1.39
+1%20(305),100930,Length (in),1.39
+1%20(306),100931,Length (in),1.39
+1%20(307),100932,Length (in),1.39
+1%20(308),100933,Length (in),1.39
+1%20(309),100934,Stroke Length (in),1
+1%20(31),100942,Length (in),4.687
+1%20(31),100942,Height (in),7.75
+1%20(31),100942,Width (in),1.82
+1%20(310),100935,Stroke Length (in),1
+1%20(311),100936,Stroke Length (in),1
+1%20(312),100937,Stroke Length (in),1
+1%20(313),100938,Stroke Length (in),1
+1%20(314),100939,Stroke Length (in),1
+1%20(315),100940,Stroke Length (in),0.375
+1%20(316),110060,Stroke Length (in),0.123
+1%20(316),110060,Width (in),0.485
+1%20(317),110061,Stroke Length (in),0.178
+1%20(317),110061,Width (in),0.735
+1%20(318),110062,Stroke Length (in),0.178
+1%20(318),110062,Width (in),0.735
+1%20(319),110063,Stroke Length (in),0.178
+1%20(319),110063,Width (in),0.98
+1%20(32),100943,Length (in),5.312
+1%20(32),100943,Port Size,7/16-20UNF SAE-4
+1%20(32),100943,Height (in),1
+1%20(32),100943,Width (in),2.75
+1%20(320),110064,Stroke Length (in),0.178
+1%20(320),110064,Width (in),0.98
+1%20(321),110065,Stroke Length (in),0.178
+1%20(321),110065,Width (in),1.47
+1%20(322),110066,Stroke Length (in),0.288
+1%20(322),110066,Width (in),1.47
+1%20(323),110067,Stroke Length (in),0.288
+1%20(323),110067,Width (in),1.96
+1%20(324),110068,Stroke Length (in),0.288
+1%20(324),110068,Width (in),1.96
+1%20(325),500184,Port Size,8-32UNC
+1%20(325),500184,Width (in),0.485
+1%20(326),500185,Port Size,1/4-20UNC
+1%20(326),500185,Width (in),0.735
+1%20(327),500186,Port Size,5/16-18UNC
+1%20(327),500186,Width (in),0.98
+1%20(328),500187,Port Size,1/2-13UNC
+1%20(328),500187,Width (in),1.47
+1%20(329),500188,Port Size,5/8-11UNC
+1%20(329),500188,Width (in),1.96
+1%20(33),110156,Length (in),4.687
+1%20(33),110156,Height (in),7.75
+1%20(33),110156,Width (in),1.82
+1%20(330),110069,Stroke Length (in),0.123
+1%20(331),110070,Stroke Length (in),0.123
+1%20(332),110071,Stroke Length (in),0.178
+1%20(333),110072,Stroke Length (in),0.178
+1%20(334),110073,Stroke Length (in),0.178
+1%20(335),110074,Stroke Length (in),0.178
+1%20(336),110075,Stroke Length (in),0.178
+1%20(337),110076,Stroke Length (in),0.288
+1%20(338),110077,Stroke Length (in),0.288
+1%20(339),110078,Stroke Length (in),0.288
+1%20(34),110157,Length (in),4.687
+1%20(34),110157,Height (in),7.75
+1%20(34),110157,Width (in),1.82
+1%20(340),110132,Thread Size,1-5/16-16 UNF
+1%20(340),110132,Length (in),3.312
+1%20(340),110132,Stroke Length (in),1
+1%20(349),201029,Thread Size,1-12 UNF
+1%20(349),201029,Width (in),0.562
+1%20(35),9503,Length (in),3.75
+1%20(35),9503,Port Size,1/4 NPTF
+1%20(35),9503,Height (in),5.42
+1%20(35),9503,Width (in),2.66
+1%20(350),201884,Thread Size,1/2-13 UNC
+1%20(351),216207,Thread Size,1-5/16-16 UN
+1%20(351),216207,Width (in),0.719
+1%20(354),400000,Port Size,1/2-13UNC
+1%20(354),400000,Height (in),1.75
+1%20(354),400000,Width (in),1.875
+1%20(355),400001,Port Size,5/8-11UNC
+1%20(355),400001,Height (in),1.875
+1%20(355),400001,Width (in),2
+1%20(356),400002,Port Size,3/4-10UNC
+1%20(356),400002,Height (in),2
+1%20(356),400002,Width (in),2
+1%20(357),400003,Port Size,1-12UNF
+1%20(357),400003,Height (in),2.5
+1%20(357),400003,Width (in),2.5
+1%20(358),400013,Height (in),2.5
+1%20(358),400013,Width (in),3
+1%20(359),400015,Height (in),3
+1%20(359),400015,Width (in),4.5
+1%20(36),9504,Length (in),3.75
+1%20(36),9504,Port Size,1/4 NPTF
+1%20(36),9504,Height (in),5.562
+1%20(36),9504,Width (in),2.66
+1%20(360),500097,Length (in),1.2
+1%20(361),500098,Length (in),1.39
+1%20(362),500099,Length (in),1.39
+1%20(363),500100,Length (in),1.2
+1%20(364),500101,Length (in),1.39
+1%20(365),500102,Length (in),1.39
+1%20(366),500103,Length (in),1.39
+1%20(367),500160,Thread Size,10-32 UNF
+1%20(368),500161,Thread Size,10-32 UNF
+1%20(368),500161,Length (in),0.63
+1%20(369),500162,Thread Size,10-32 UNF
+1%20(37),9573,Length (in),12.062
+1%20(37),9573,Port Size,1/4 NPTF
+1%20(37),9573,Height (in),5.812
+1%20(37),9573,Width (in),3.375
+1%20(370),500163,Thread Size,5/16-24 UNF
+1%20(371),500164,Thread Size,5/16-24 UNF
+1%20(371),500164,Length (in),0.63
+1%20(372),500165,Thread Size,5/16-24 UNF
+1%20(373),100043B,Stroke Length (in),0.5
+1%20(374),100044B,Stroke Length (in),1
+1%20(375),100049B,Stroke Length (in),0.5
+1%20(376),100050B,Stroke Length (in),1
+1%20(377),100055B,Thread Size,5/16-24 UNF
+1%20(377),100055B,Length (in),2.5
+1%20(377),100055B,Stroke Length (in),0.5
+1%20(377),100055B,Port Size,1/8 NPT
+1%20(377),100055B,Height (in),2.312
+1%20(377),100055B,Width (in),1.5
+1%20(378),100056B,Thread Size,5/16-24 UNF
+1%20(378),100056B,Length (in),2.5
+1%20(378),100056B,Stroke Length (in),1
+1%20(378),100056B,Port Size,1/8 NPT
+1%20(378),100056B,Height (in),2.812
+1%20(378),100056B,Width (in),1.5
+1%20(379),100061B,Thread Size,5/16-24 UNF
+1%20(379),100061B,Length (in),3
+1%20(379),100061B,Stroke Length (in),0.5
+1%20(379),100061B,Port Size,1/8 NPT
+1%20(379),100061B,Height (in),2.812
+1%20(379),100061B,Width (in),2.5
+1%20(38),9574,Length (in),12.062
+1%20(38),9574,Port Size,1/4 NPTF
+1%20(38),9574,Height (in),5.812
+1%20(38),9574,Width (in),3.375
+1%20(380),100062B,Thread Size,5/16-24 UNF
+1%20(380),100062B,Length (in),3
+1%20(380),100062B,Stroke Length (in),1
+1%20(380),100062B,Port Size,1/8 NPT
+1%20(380),100062B,Height (in),3.312
+1%20(380),100062B,Width (in),2.5
+1%20(381),100141,Stroke Length (in),0.75
+1%20(382),100143,Stroke Length (in),0.295
+1%20(383),100176,Stroke Length (in),0.375
+1%20(384),100177,Stroke Length (in),0.375
+1%20(385),100207,Stroke Length (in),0.295
+1%20(386),100226,Stroke Length (in),0.75
+1%20(387),100229,Stroke Length (in),0.375
+1%20(388),100269,Stroke Length (in),0.375
+1%20(389),100844,Stroke Length (in),0.68
+1%20(39),9611,Length (in),12.062
+1%20(39),9611,Port Size,1/4 NPTF
+1%20(39),9611,Height (in),5.812
+1%20(39),9611,Width (in),3.375
+1%20(390),100847,Stroke Length (in),0.68
+1%20(391),100873,Thread Size,1-1/4-16 UNF
+1%20(391),100873,Stroke Length (in),0.312
+1%20(392),100874,Thread Size,1-1/4-16 UNF
+1%20(392),100874,Stroke Length (in),0.312
+1%20(393),100875,Thread Size,1-1/4-16 UNF
+1%20(393),100875,Stroke Length (in),0.312
+1%20(394),100876,Thread Size,1-1/4-16 UNF
+1%20(394),100876,Stroke Length (in),0.312
+1%20(395),100877,Thread Size,1-1/4-16 UNF
+1%20(395),100877,Stroke Length (in),0.312
+1%20(396),100882,Thread Size,2-1/4-16 UN
+1%20(396),100882,Stroke Length (in),0.5
+1%20(397),100883,Thread Size,2-1/4-16 UN
+1%20(397),100883,Stroke Length (in),0.5
+1%20(398),100884,Thread Size,2-1/4-16 UN
+1%20(398),100884,Stroke Length (in),0.5
+1%20(399),100885,Thread Size,2-1/4-16 UN
+1%20(399),100885,Stroke Length (in),0.5
+1%20(4),100983,Length (in),6.189
+1%20(40),9612,Length (in),6.125
+1%20(40),9612,Port Size,1/8 NPTF
+1%20(40),9612,Height (in),5.812
+1%20(40),9612,Width (in),3.375
+1%20(400),100926,Stroke Length (in),0.75
+1%20(401),100998,Stroke Length (in),0.75
+1%20(402),110085,Stroke Length (in),0.375
+1%20(403),110086,Stroke Length (in),0.375
+1%20(404),110087,Stroke Length (in),1.18
+1%20(405),110088,Stroke Length (in),1.18
+1%20(406),110122,Thread Size,1-1/4-16 UNF
+1%20(406),110122,Stroke Length (in),0.312
+1%20(407),110123,Thread Size,2-1/4-16 UN
+1%20(407),110123,Stroke Length (in),0.5
+1%20(408),110124,Thread Size,1-1/4-16 UNF
+1%20(408),110124,Stroke Length (in),0.312
+1%20(409),110125,Thread Size,2-1/4-16 UN
+1%20(409),110125,Stroke Length (in),0.5
+1%20(41),100154,Length (in),3.75
+1%20(41),100154,Height (in),6.047
+1%20(41),100154,Width (in),2.656
+1%20(410),110134,Thread Size,1-1/4-16 UNF
+1%20(410),110134,Stroke Length (in),0.312
+1%20(411),110135,Stroke Length (in),1.18
+1%20(412),110136,Stroke Length (in),0.68
+1%20(413),110139,Thread Size,2-1/4-16 UN
+1%20(413),110139,Stroke Length (in),0.5
+1%20(414),110140,Stroke Length (in),0.5
+1%20(415),110141,Thread Size,2-1/4-16 UN
+1%20(415),110141,Stroke Length (in),0.5
+1%20(416),110142,Stroke Length (in),0.5
+1%20(42),100969,Length (in),1.948
+1%20(42),100969,Port Size,7/16-20UNF SAE-4
+1%20(42),100969,Height (in),4.444
+1%20(42),100969,Width (in),2
+1%20(420),100236,Thread Size,1/4 NPT
+1%20(421),100238,Thread Size,1/4 NPT
+1%20(422),100878,Thread Size,1/4 NPT
+1%20(423),100917,Thread Size,1/8 NPT
+1%20(424),100232,Length (in),2.938
+1%20(425),100233,Length (in),7.688
+1%20(43),100970,Length (in),1.948
+1%20(43),100970,Port Size,1/4 NPTF
+1%20(43),100970,Height (in),4.444
+1%20(43),100970,Width (in),2
+1%20(431),100845,Length (in),3.188
+1%20(432),100857,Length (in),2.1
+1%20(433),100919,Length (in),2.1
+1%20(434),9614,Length (in),3.75
+1%20(434),9614,Width (in),2.5
+1%20(435),36105,Length (in),4
+1%20(435),36105,Width (in),2
+1%20(436),100941,Length (in),4
+1%20(436),100941,Width (in),2
+1%20(437),100944,Length (in),3.75
+1%20(437),100944,Width (in),2.5
+1%20(438),100265,Thread Size,1/4 NPTF
+1%20(438),100265,Length (in),2.4
+1%20(439),100266,Thread Size,1/4 NPTF
+1%20(439),100266,Length (in),1.9
+1%20(44),100971,Length (in),1.948
+1%20(44),100971,Height (in),4.187
+1%20(44),100971,Width (in),2
+1%20(440),100267,Thread Size,1/4 NPTF
+1%20(440),100267,Length (in),1.19
+1%20(441),100907,Thread Size,1/4 NPTF
+1%20(441),100907,Length (in),1.72
+1%20(442),100908,Thread Size,1/4 NPTF
+1%20(442),100908,Length (in),1.79
+1%20(443),100909,Thread Size,1/4 NPTF
+1%20(443),100909,Length (in),2.97
+1%20(45),100972,Thread Size,7/16-20UNF SAE-4 Port A and B 7/16-20UNF SAE-4 Port P and T
+1%20(45),100972,Length (in),2
+1%20(45),100972,Height (in),0.904
+1%20(45),100972,Width (in),1.948
+1%20(451),100281,Thread Size,1/4 NPTF
+1%20(452),100282,Thread Size,1/4 NPTF
+1%20(453),100283,Thread Size,1/4 NPTF
+1%20(454),100285,Thread Size,1/4 NPTF
+1%20(455),100286,Thread Size,1/4 NPTF
+1%20(456),100287,Thread Size,1/4 NPTF
+1%20(46),100973,Thread Size,1/4 NPTF
+1%20(46),100973,Length (in),2
+1%20(46),100973,Height (in),0.904
+1%20(46),100973,Width (in),1.948
+1%20(463),10479,Thread Size,1/4 NPTF
+1%20(466),10655,Thread Size,1/4 NPTF
+1%20(468),10661,Thread Size,1/4 NPTF
+1%20(469),10665,Thread Size,1/4 NPT
+1%20(47),100974,Length (in),2
+1%20(47),100974,Height (in),0.904
+1%20(47),100974,Width (in),1.948
+1%20(470),10669,Thread Size,1/4 NPTF
+1%20(471),10670,Thread Size,1/4 NPTF
+1%20(475),11628,Tube Dia (in),0.375
+1%20(48),100975,Thread Size,3/4-16 UNF SAE-8 Port A and B 7/8-14UNF SAE-10 Port P and T
+1%20(48),100975,Length (in),4.25
+1%20(48),100975,Height (in),3
+1%20(48),100975,Width (in),3
+1%20(482),15050,Thread Size,1/8 NPTF
+1%20(483),15052,Thread Size,1/8 NPTF
+1%20(484),15053,Thread Size,1/8 NPTF
+1%20(486),15055,Thread Size,1/8 NPTF
+1%20(490),15061,Thread Size,1/8 NPTF
+1%20(493),15499,Thread Size,1/8 NPTF
+1%20(494),16232,Thread Size,3/8 NPTF
+1%20(499),100169,Length (in),0.844
+1%20(5),500149,Thread Size,1/8 NPTF
+1%20(5),500149,Length (in),3.4
+1%20(500),110048,Thread Size,1/4 NPTF
+1%20(500),110048,Length (in),1.63
+1%20(501),110049,Thread Size,7/16-20 UNF SAE-4
+1%20(501),110049,Length (in),1.44
+1%20(502),205790,Thread Size,1/4 NPTF
+1%20(503),205791,Thread Size,1/4 NPTF
+1%20(504),205792,Thread Size,1/4 NPTF
+1%20(505),205793,Thread Size,1/4 NPTF
+1%20(506),206330,Thread Size,1/4 NPTF
+1%20(506),206330,Length (in),2.25
+1%20(509),216437,Length (in),1.135
+1%20(512),250605,Tube Dia (in),0.25
+1%20(515),250687,Thread Size,7/16-20 UNF SAE-4
+1%20(516),250688,Thread Size,9/16-18 UNF SAE-6
+1%20(521),250883,Thread Size,7/16-20 UNF SAE-4
+1%20(525),252996,Thread Size,7/16-20 UNF
+1%20(525),252996,Tube Dia (in),0.25
+1%20(526),252997,Thread Size,9/16-18 UNF
+1%20(526),252997,Tube Dia (in),0.375
+1%20(527),252998,Thread Size,1/4 NPTF
+1%20(528),252999,Thread Size,7/16-20 UNF
+1%20(528),252999,Tube Dia (in),0.25
+1%20(529),253000,Thread Size,9/16-18 UNF
+1%20(529),253000,Tube Dia (in),0.375
+1%20(53),500171,Thread Size,1/4 NPTF
+1%20(53),500171,Length (in),1.349
+1%20(530),253001,Thread Size,1/4 NPTF
+1%20(531),253007,Thread Size,7/16-20 UNF
+1%20(531),253007,Tube Dia (in),0.25
+1%20(532),253008,Thread Size,9/16-18 UNF
+1%20(532),253008,Tube Dia (in),0.375
+1%20(533),253009,Tube Dia (in),0.25
+1%20(534),253010,Tube Dia (in),0.375
+1%20(535),253011,Tube Dia (in),0.375
+1%20(536),253012,Tube Dia (in),0.375
+1%20(537),253013,Tube Dia (in),0.375
+1%20(538),253014,Tube Dia (in),0.25
+1%20(539),253015,Tube Dia (in),0.25
+1%20(54),500172,Thread Size,1/4 NPTF
+1%20(54),500172,Length (in),1.259
+1%20(540),253016,Tube Dia (in),0.375
+1%20(541),253017,Tube Dia (in),0.375
+1%20(542),253018,Tube Dia (in),0.375
+1%20(543),253019,Tube Dia (in),0.25
+1%20(544),253020,Tube Dia (in),0.25
+1%20(545),253021,Tube Dia (in),0.375
+1%20(546),253022,Tube Dia (in),0.25
+1%20(547),253023,Tube Dia (in),0.25
+1%20(548),253024,Tube Dia (in),0.25
+1%20(549),253025,Tube Dia (in),0.375
+1%20(55),500173,Thread Size,7/16-20 UNF SAE-4
+1%20(55),500173,Length (in),1.431
+1%20(550),253026,Tube Dia (in),0.375
+1%20(551),253027,Tube Dia (in),0.375
+1%20(552),253028,Tube Dia (in),0.25
+1%20(553),253029,Tube Dia (in),0.25
+1%20(554),253030,Tube Dia (in),0.25
+1%20(555),253031,Tube Dia (in),0.375
+1%20(556),253032,Thread Size,1/4 NPTF
+1%20(556),253032,Tube Dia (in),0.25
+1%20(557),253033,Thread Size,1/4 NPTF
+1%20(557),253033,Tube Dia (in),0.375
+1%20(558),253076,Tube Dia (in),0.25
+1%20(559),253078,Thread Size,5/16-24 UNF
+1%20(559),253078,Length (in),1
+1%20(56),500174,Thread Size,7/16-20 UNF SAE-4
+1%20(56),500174,Length (in),1.065
+1%20(560),253174,Tube Dia (in),0.375
+1%20(561),253175,Tube Dia (in),0.25
+1%20(58),15066,Length (in),1.875
+1%20(58),15066,Height (in),2.781
+1%20(58),15066,Width (in),0.875
+1%20(59),15068,Length (in),2.375
+1%20(59),15068,Height (in),2.437
+1%20(59),15068,Width (in),0.875
+1%20(6),500177,Length (in),2.75
+1%20(6),500177,Width (in),2.75
+1%20(61),100984,Length (in),2.72
+1%20(61),100984,Height (in),1.97
+1%20(61),100984,Width (in),1
+1%20(62),100985,Length (in),2.72
+1%20(62),100985,Height (in),1.97
+1%20(62),100985,Width (in),1
+1%20(63),253605,Length (in),1.875
+1%20(64),100991,Length (in),4.331
+1%20(64),100991,Port Size,7/16-20UNF
+1%20(65),100992,Length (in),4.331
+1%20(65),100992,Port Size,7/16-20UNF
+1%20(66),100993,Length (in),4.331
+1%20(66),100993,Port Size,7/16-20UNF
+1%20(67),100994,Length (in),4.331
+1%20(67),100994,Port Size,7/16-20UNF
+1%20(68),100995,Length (in),4.331
+1%20(68),100995,Port Size,7/16-20UNF
+1%20(69),100996,Length (in),4.331
+1%20(69),100996,Port Size,7/16-20UNF
+1%20(7),100179,Length (in),14.875
+1%20(7),100179,Width (in),9.25
+1%20(70),100997,Length (in),3.543
+1%20(70),100997,Port Size,1/4 BSPP
+1%20(70),100997,Height (in),2.441
+1%20(70),100997,Width (in),1.968
+1%20(83),58219,Length (in),10
+1%20(83),58219,Port Size,38725
+1%20(83),58219,Width (in),5
+1%20(84),100174,Length (in),13.062
+1%20(84),100174,Port Size,38721
+1%20(84),100174,Width (in),6.125
+1%20(85),100190,Length (in),13.062
+1%20(85),100190,Port Size,38721
+1%20(85),100190,Width (in),6.125
+1%20(86),100191,Length (in),13.062
+1%20(86),100191,Port Size,38721
+1%20(86),100191,Width (in),6.125
+1%20(87),100200,Length (in),14.25
+1%20(87),100200,Port Size,38721
+1%20(87),100200,Width (in),9.625
+1%20(88),100280,Length (in),10
+1%20(88),100280,Port Size,38721
+1%20(88),100280,Width (in),5
+1%20(89),100918,Length (in),10
+1%20(89),100918,Port Size,38725
+1%20(89),100918,Width (in),5
+1%20(90),100920,Length (in),13.062
+1%20(90),100920,Port Size,38721
+1%20(90),100920,Width (in),6.125
+1%20(91),100921,Length (in),10
+1%20(91),100921,Port Size,38725
+1%20(91),100921,Width (in),5
+1%20(92),100922,Length (in),14.25
+1%20(92),100922,Port Size,38721
+1%20(92),100922,Width (in),9.625
+1%20(93),100987,Length (in),10
+1%20(93),100987,Port Size,38721
+1%20(93),100987,Width (in),5
+1%20(94),100114,Width (in),2.75
+1%20(95),100127,Width (in),1.875
+1%20(96),100839,Length (in),4
+1%20(96),100839,Stroke Length (in),0.25
+1%20(96),100839,Port Size,1/8 NPTF
+1%20(96),100839,Width (in),2.19
+1%20(97),100841,Stroke Length (in),1.163
+1%20(98),100842,Stroke Length (in),1.163
+1%20(99),100848,Stroke Length (in),1.938
+1,100138,Length (in),5.508
+1,100138,Port Size,1/4 NPT

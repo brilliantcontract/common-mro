@@ -1,0 +1,2076 @@
+file_name,catalog_number,attribute_name,attribute_value
+1%20(10),100223,Actuation Type,Manual
+1%20(10),100223,Max Operating Pressure (psi),5000
+1%20(100),100849,Clamp Body Style,Threaded
+1%20(100),100849,Clamping Force (lbs),2400
+1%20(100),100849,Clamp Port Size,1/8 NPTF
+1%20(100),100849,Action Type,Double Acting
+1%20(100),100849,Direction Of Rotation,Right
+1%20(100),100849,Mounting Thread Size,1-7/8 - 16UN
+1%20(101),100859,Clamp Body Style,Cartridge
+1%20(101),100859,Clamping Force (lbs),2400
+1%20(101),100859,Clamp Port Size,0.125 Port Dia.
+1%20(101),100859,Action Type,Single Acting
+1%20(101),100859,Direction Of Rotation,Left
+1%20(101),100859,Mounting Thread Size,1-7/8 - 12UN
+1%20(102),100860,Clamp Body Style,Cartridge
+1%20(102),100860,Clamping Force (lbs),2400
+1%20(102),100860,Clamp Port Size,0.125 Port Dia.
+1%20(102),100860,Action Type,Single Acting
+1%20(102),100860,Direction Of Rotation,Right
+1%20(102),100860,Mounting Thread Size,1-7/8 - 12UN
+1%20(103),100863,Clamping Force (lbs),2000
+1%20(103),100863,Type,Mounting Conventional
+1%20(104),100868,Clamp Body Style,Cartridge
+1%20(104),100868,Clamping Force (lbs),2400
+1%20(104),100868,Clamp Port Size,0.125 Port Dia.
+1%20(104),100868,Action Type,Single Acting
+1%20(104),100868,Direction Of Rotation,Straight Pull
+1%20(104),100868,Mounting Thread Size,1-7/8 - 12UN
+1%20(105),100870,Clamp Body Style,Threaded
+1%20(105),100870,Clamping Force (lbs),2400
+1%20(105),100870,Clamp Port Size,1/8 NPTF
+1%20(105),100870,Action Type,Double Acting
+1%20(105),100870,Direction Of Rotation,Straight Pull
+1%20(105),100870,Mounting Thread Size,1-7/8 - 16UN
+1%20(106),100871,Clamp Body Style,Threaded
+1%20(106),100871,Clamping Force (lbs),2400
+1%20(106),100871,Clamp Port Size,1/8 NPTF
+1%20(106),100871,Action Type,Double Acting
+1%20(106),100871,Direction Of Rotation,Straight Pull
+1%20(106),100871,Mounting Thread Size,1-7/8 - 16UN
+1%20(107),100889,Clamp Body Style,Threaded
+1%20(107),100889,Clamping Force (lbs),2400
+1%20(107),100889,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(107),100889,Action Type,Double Acting
+1%20(107),100889,Direction Of Rotation,Left
+1%20(107),100889,Mounting Thread Size,1-7/8 - 16UN
+1%20(108),100890,Clamp Body Style,Threaded
+1%20(108),100890,Clamping Force (lbs),2400
+1%20(108),100890,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(108),100890,Action Type,Double Acting
+1%20(108),100890,Direction Of Rotation,Right
+1%20(108),100890,Mounting Thread Size,1-7/8 - 16UN
+1%20(109),100891,Clamp Body Style,Threaded
+1%20(109),100891,Clamping Force (lbs),2400
+1%20(109),100891,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(109),100891,Action Type,Double Acting
+1%20(109),100891,Direction Of Rotation,Straight Pull
+1%20(109),100891,Mounting Thread Size,1-7/8 - 16UN
+1%20(11),100279,Product Specification,NPTF Thread
+1%20(11),100279,Max Operating Pressure (psi),4475
+1%20(110),100892,Clamp Body Style,Threaded
+1%20(110),100892,Clamping Force (lbs),2400
+1%20(110),100892,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(110),100892,Action Type,Single Acting
+1%20(110),100892,Direction Of Rotation,Left
+1%20(110),100892,Mounting Thread Size,1-7/8 - 16UN
+1%20(111),100893,Clamp Body Style,Threaded
+1%20(111),100893,Clamping Force (lbs),2400
+1%20(111),100893,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(111),100893,Action Type,Single Acting
+1%20(111),100893,Direction Of Rotation,Right
+1%20(111),100893,Mounting Thread Size,1-7/8 - 16UN
+1%20(112),100894,Clamp Body Style,Threaded
+1%20(112),100894,Clamping Force (lbs),2400
+1%20(112),100894,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(112),100894,Action Type,Single Acting
+1%20(112),100894,Direction Of Rotation,Straight Pull
+1%20(112),100894,Mounting Thread Size,1-7/8 - 16UN
+1%20(113),100895,Clamp Body Style,Manifold
+1%20(113),100895,Clamping Force (lbs),2400
+1%20(113),100895,Clamp Port Size,Manifold
+1%20(113),100895,Action Type,Single Acting
+1%20(113),100895,Direction Of Rotation,Left
+1%20(113),100895,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(114),100896,Clamp Body Style,Manifold
+1%20(114),100896,Clamping Force (lbs),2400
+1%20(114),100896,Clamp Port Size,Manifold
+1%20(114),100896,Action Type,Single Acting
+1%20(114),100896,Direction Of Rotation,Right
+1%20(114),100896,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(115),100897,Clamp Body Style,Manifold
+1%20(115),100897,Clamping Force (lbs),2400
+1%20(115),100897,Clamp Port Size,Manifold
+1%20(115),100897,Action Type,Single Acting
+1%20(115),100897,Direction Of Rotation,Straight Pull
+1%20(115),100897,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(116),100898,Clamp Body Style,Threaded
+1%20(116),100898,Clamping Force (lbs),5000
+1%20(116),100898,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(116),100898,Action Type,Double Acting
+1%20(116),100898,Direction Of Rotation,Left
+1%20(116),100898,Mounting Thread Size,2-1/2 - 16UN
+1%20(117),100899,Clamp Body Style,Threaded
+1%20(117),100899,Clamping Force (lbs),5000
+1%20(117),100899,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(117),100899,Action Type,Double Acting
+1%20(117),100899,Direction Of Rotation,Right
+1%20(117),100899,Mounting Thread Size,2-1/2 - 16UN
+1%20(118),100900,Clamp Body Style,Threaded
+1%20(118),100900,Clamping Force (lbs),5000
+1%20(118),100900,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(118),100900,Action Type,Double Acting
+1%20(118),100900,Direction Of Rotation,Straight Pull
+1%20(118),100900,Mounting Thread Size,2-1/2 - 16UN
+1%20(119),100901,Clamp Body Style,Threaded
+1%20(119),100901,Clamping Force (lbs),5000
+1%20(119),100901,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(119),100901,Action Type,Single Acting
+1%20(119),100901,Direction Of Rotation,Left
+1%20(119),100901,Mounting Thread Size,2-1/2 - 16UN
+1%20(12),100879,Input Voltage (vac),460
+1%20(12),100879,Type,Palletized_System
+1%20(12),100879,Power Dissipation (hp),1
+1%20(12),100879,Max Operating Pressure (psi),5000
+1%20(12),100879,Rated Speed (rpm),1725
+1%20(120),100902,Clamp Body Style,Threaded
+1%20(120),100902,Clamping Force (lbs),5000
+1%20(120),100902,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(120),100902,Action Type,Single Acting
+1%20(120),100902,Direction Of Rotation,Right
+1%20(120),100902,Mounting Thread Size,2-1/2 - 16UN
+1%20(121),100903,Clamp Body Style,Threaded
+1%20(121),100903,Clamping Force (lbs),5000
+1%20(121),100903,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(121),100903,Action Type,Single Acting
+1%20(121),100903,Direction Of Rotation,Straight Pull
+1%20(121),100903,Mounting Thread Size,2-1/2 - 16UN
+1%20(122),100904,Clamp Body Style,Cartridge
+1%20(122),100904,Clamping Force (lbs),5000
+1%20(122),100904,Clamp Port Size,0.125 Port Dia.
+1%20(122),100904,Action Type,Single Acting
+1%20(122),100904,Direction Of Rotation,Left
+1%20(122),100904,Mounting Thread Size,2-1/2 - 12UNC
+1%20(123),100905,Clamp Body Style,Cartridge
+1%20(123),100905,Clamping Force (lbs),5000
+1%20(123),100905,Clamp Port Size,0.125 Port Dia.
+1%20(123),100905,Action Type,Single Acting
+1%20(123),100905,Direction Of Rotation,Right
+1%20(123),100905,Mounting Thread Size,2-1/2 - 12UNC
+1%20(124),100906,Clamp Body Style,Cartridge
+1%20(124),100906,Clamping Force (lbs),5000
+1%20(124),100906,Clamp Port Size,0.125 Port Dia.
+1%20(124),100906,Action Type,Single Acting
+1%20(124),100906,Direction Of Rotation,Straight Pull
+1%20(124),100906,Mounting Thread Size,2-1/2 - 12UNC
+1%20(125),100910,Outside Diameter (in),2
+1%20(125),100910,Mounting Thread Size,1-1/4 - 16UN
+1%20(126),100911,Outside Diameter (in),2.75
+1%20(126),100911,Mounting Thread Size,1-7/8 - 16UN
+1%20(127),100912,Outside Diameter (in),3.25
+1%20(127),100912,Mounting Thread Size,2-1/4 - 16UN
+1%20(128),100913,Outside Diameter (in),3.5
+1%20(128),100913,Mounting Thread Size,2-1/2 - 16UN
+1%20(129),100914,Mounting Thread Size,2-1/2 - 16UN
+1%20(13),100888,Input Voltage (vac),115
+1%20(13),100888,Type,Palletized_System
+1%20(13),100888,Power Dissipation (hp),1
+1%20(13),100888,Max Operating Pressure (psi),5000
+1%20(13),100888,Rated Speed (rpm),1725
+1%20(130),100916,Outside Diameter (in),2
+1%20(130),100916,Mounting Thread Size,1-1/4 - 12UNF
+1%20(131),100945,Clamp Body Style,Threaded
+1%20(131),100945,Clamping Force (lbs),750
+1%20(131),100945,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(131),100945,Action Type,Single Acting
+1%20(131),100945,Direction Of Rotation,Left
+1%20(131),100945,Mounting Thread Size,1-1/4 - 12UNF
+1%20(132),100946,Clamp Body Style,Threaded
+1%20(132),100946,Clamping Force (lbs),750
+1%20(132),100946,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(132),100946,Action Type,Single Acting
+1%20(132),100946,Direction Of Rotation,Right
+1%20(132),100946,Mounting Thread Size,1-1/4 - 12UNF
+1%20(133),100947,Clamp Body Style,Threaded
+1%20(133),100947,Clamping Force (lbs),750
+1%20(133),100947,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(133),100947,Action Type,Single Acting
+1%20(133),100947,Direction Of Rotation,Straight Pull
+1%20(133),100947,Mounting Thread Size,1-1/4 - 12UNF
+1%20(134),100948,Clamp Body Style,Threaded
+1%20(134),100948,Clamping Force (lbs),750
+1%20(134),100948,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(134),100948,Action Type,Double Acting
+1%20(134),100948,Direction Of Rotation,Left
+1%20(134),100948,Mounting Thread Size,1-1/4 - 12UNF
+1%20(135),100949,Clamp Body Style,Threaded
+1%20(135),100949,Clamping Force (lbs),750
+1%20(135),100949,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(135),100949,Action Type,Double Acting
+1%20(135),100949,Direction Of Rotation,Right
+1%20(135),100949,Mounting Thread Size,1-1/4 - 12UNF
+1%20(136),100950,Clamp Body Style,Threaded
+1%20(136),100950,Clamping Force (lbs),750
+1%20(136),100950,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(136),100950,Action Type,Double Acting
+1%20(136),100950,Direction Of Rotation,Straight Pull
+1%20(136),100950,Mounting Thread Size,1-1/4 - 12UNF
+1%20(137),100951,Clamp Body Style,Cartridge
+1%20(137),100951,Clamping Force (lbs),750
+1%20(137),100951,Clamp Port Size,0.125 Port Dia.
+1%20(137),100951,Action Type,Single Acting
+1%20(137),100951,Direction Of Rotation,Left
+1%20(137),100951,Mounting Thread Size,1-5/16 - 12UN
+1%20(138),100952,Clamp Body Style,Cartridge
+1%20(138),100952,Clamping Force (lbs),750
+1%20(138),100952,Clamp Port Size,0.125 Port Dia.
+1%20(138),100952,Action Type,Single Acting
+1%20(138),100952,Direction Of Rotation,Right
+1%20(138),100952,Mounting Thread Size,1-5/16 - 12UN
+1%20(139),100953,Clamp Body Style,Cartridge
+1%20(139),100953,Clamping Force (lbs),750
+1%20(139),100953,Clamp Port Size,0.125 Port Dia.
+1%20(139),100953,Action Type,Single Acting
+1%20(139),100953,Direction Of Rotation,Straight Pull
+1%20(139),100953,Mounting Thread Size,1-5/16 - 12UN
+1%20(14),110050,Actuation Type,Manual
+1%20(14),110050,Max Operating Pressure (psi),5000
+1%20(140),100954,Clamp Body Style,Manifold
+1%20(140),100954,Clamping Force (lbs),750
+1%20(140),100954,Clamp Port Size,Manifold
+1%20(140),100954,Action Type,Single Acting
+1%20(140),100954,Direction Of Rotation,Left
+1%20(140),100954,Mounting Thread Size,10-24 UNC SHCS
+1%20(141),100955,Clamp Body Style,Manifold
+1%20(141),100955,Clamping Force (lbs),750
+1%20(141),100955,Clamp Port Size,Manifold
+1%20(141),100955,Action Type,Single Acting
+1%20(141),100955,Direction Of Rotation,Right
+1%20(141),100955,Mounting Thread Size,10-24 UNC SHCS
+1%20(142),100956,Clamp Body Style,Manifold
+1%20(142),100956,Clamping Force (lbs),750
+1%20(142),100956,Clamp Port Size,Manifold
+1%20(142),100956,Action Type,Single Acting
+1%20(142),100956,Direction Of Rotation,Straight Pull
+1%20(142),100956,Mounting Thread Size,10-24 UNC SHCS
+1%20(143),100957,Clamp Body Style,Cartridge
+1%20(143),100957,Clamping Force (lbs),750
+1%20(143),100957,Clamp Port Size,0.125 Port Dia.
+1%20(143),100957,Action Type,Double Acting
+1%20(143),100957,Direction Of Rotation,Left
+1%20(143),100957,Mounting Thread Size,1-5/16 - 12UN
+1%20(144),100958,Clamp Body Style,Cartridge
+1%20(144),100958,Clamping Force (lbs),750
+1%20(144),100958,Clamp Port Size,0.125 Port Dia.
+1%20(144),100958,Action Type,Double Acting
+1%20(144),100958,Direction Of Rotation,Right
+1%20(144),100958,Mounting Thread Size,1-5/16 - 12UN
+1%20(145),100959,Clamp Body Style,Cartridge
+1%20(145),100959,Clamping Force (lbs),750
+1%20(145),100959,Clamp Port Size,0.125 Port Dia.
+1%20(145),100959,Action Type,Double Acting
+1%20(145),100959,Direction Of Rotation,Straight Pull
+1%20(145),100959,Mounting Thread Size,1-5/16 - 12UN
+1%20(146),100960,Clamp Body Style,Cartridge
+1%20(146),100960,Clamping Force (lbs),2400
+1%20(146),100960,Clamp Port Size,0.125 Port Dia.
+1%20(146),100960,Action Type,Double Acting
+1%20(146),100960,Direction Of Rotation,Left
+1%20(146),100960,Mounting Thread Size,1-7/8 - 12UN
+1%20(147),100961,Clamp Body Style,Cartridge
+1%20(147),100961,Clamping Force (lbs),2400
+1%20(147),100961,Clamp Port Size,0.125 Port Dia.
+1%20(147),100961,Action Type,Double Acting
+1%20(147),100961,Direction Of Rotation,Right
+1%20(147),100961,Mounting Thread Size,1-7/8 - 12UN
+1%20(148),100962,Clamp Body Style,Cartridge
+1%20(148),100962,Clamping Force (lbs),2400
+1%20(148),100962,Clamp Port Size,0.125 Port Dia.
+1%20(148),100962,Action Type,Double Acting
+1%20(148),100962,Direction Of Rotation,Straight Pull
+1%20(148),100962,Mounting Thread Size,1-7/8 - 12UN
+1%20(149),100963,Clamp Body Style,Manifold
+1%20(149),100963,Clamping Force (lbs),2400
+1%20(149),100963,Clamp Port Size,Manifold
+1%20(149),100963,Action Type,Double Acting
+1%20(149),100963,Direction Of Rotation,Left
+1%20(149),100963,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(15),110051,Actuation Type,Manual
+1%20(15),110051,Max Operating Pressure (psi),5000
+1%20(150),100964,Clamp Body Style,Manifold
+1%20(150),100964,Clamping Force (lbs),2400
+1%20(150),100964,Clamp Port Size,Manifold
+1%20(150),100964,Action Type,Double Acting
+1%20(150),100964,Direction Of Rotation,Right
+1%20(150),100964,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(151),100965,Clamp Body Style,Manifold
+1%20(151),100965,Clamping Force (lbs),2400
+1%20(151),100965,Clamp Port Size,Manifold
+1%20(151),100965,Action Type,Double Acting
+1%20(151),100965,Direction Of Rotation,Straight Pull
+1%20(151),100965,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(152),100976,Clamp Body Style,Manifold
+1%20(152),100976,Clamping Force (lbs),750
+1%20(152),100976,Clamp Port Size,Manifold
+1%20(152),100976,Action Type,Double Acting
+1%20(152),100976,Direction Of Rotation,Left
+1%20(152),100976,Mounting Thread Size,10-24 UNC SHCS
+1%20(153),100977,Clamp Body Style,Manifold
+1%20(153),100977,Clamping Force (lbs),750
+1%20(153),100977,Clamp Port Size,Manifold
+1%20(153),100977,Action Type,Double Acting
+1%20(153),100977,Direction Of Rotation,Right
+1%20(153),100977,Mounting Thread Size,10-24 UNC SHCS
+1%20(154),100978,Clamp Body Style,Manifold
+1%20(154),100978,Clamping Force (lbs),750
+1%20(154),100978,Clamp Port Size,Manifold
+1%20(154),100978,Action Type,Double Acting
+1%20(154),100978,Direction Of Rotation,Straight Pull
+1%20(154),100978,Mounting Thread Size,10-24 UNC SHCS
+1%20(155),100979,Mounting Thread Size,1-1/16 - 16UN
+1%20(156),100980,Outside Diameter (in),1.5
+1%20(156),100980,Mounting Thread Size,1-1/16 - 16UN
+1%20(157),100986,Clamping Force (lbs),2000
+1%20(157),100986,Type,Mounting Manifold
+1%20(158),100988,Clamp Body Style,Cartridge
+1%20(158),100988,Clamping Force (lbs),5000
+1%20(158),100988,Clamp Port Size,0.125 Port Dia.
+1%20(158),100988,Action Type,Double Acting
+1%20(158),100988,Direction Of Rotation,Left
+1%20(158),100988,Mounting Thread Size,2-1/2 - 12UNC
+1%20(159),100989,Clamp Body Style,Cartridge
+1%20(159),100989,Clamping Force (lbs),5000
+1%20(159),100989,Clamp Port Size,0.125 Port Dia.
+1%20(159),100989,Action Type,Double Acting
+1%20(159),100989,Direction Of Rotation,Right
+1%20(159),100989,Mounting Thread Size,2-1/2 - 12UNC
+1%20(16),110052,Actuation Type,Manual
+1%20(16),110052,Max Operating Pressure (psi),5000
+1%20(160),100990,Clamp Body Style,Cartridge
+1%20(160),100990,Clamping Force (lbs),5000
+1%20(160),100990,Clamp Port Size,0.125 Port Dia.
+1%20(160),100990,Action Type,Double Acting
+1%20(160),100990,Direction Of Rotation,Straight Pull
+1%20(160),100990,Mounting Thread Size,2-1/2 - 12UNC
+1%20(161),110001,Clamp Body Style,Threaded
+1%20(161),110001,Clamping Force (lbs),365
+1%20(161),110001,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(161),110001,Action Type,Single Acting
+1%20(161),110001,Direction Of Rotation,Left
+1%20(161),110001,Mounting Thread Size,1-1/16 - 16UN
+1%20(162),110002,Clamp Body Style,Threaded
+1%20(162),110002,Clamping Force (lbs),365
+1%20(162),110002,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(162),110002,Action Type,Single Acting
+1%20(162),110002,Direction Of Rotation,Right
+1%20(162),110002,Mounting Thread Size,1-1/16 - 16UN
+1%20(163),110003,Clamp Body Style,Threaded
+1%20(163),110003,Clamping Force (lbs),365
+1%20(163),110003,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(163),110003,Action Type,Single Acting
+1%20(163),110003,Direction Of Rotation,Straight Pull
+1%20(163),110003,Mounting Thread Size,1-1/16 - 16UN
+1%20(164),110004,Clamp Body Style,Threaded
+1%20(164),110004,Clamping Force (lbs),365
+1%20(164),110004,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(164),110004,Action Type,Double Acting
+1%20(164),110004,Direction Of Rotation,Left
+1%20(164),110004,Mounting Thread Size,1-1/16 - 16UN
+1%20(165),110005,Clamp Body Style,Threaded
+1%20(165),110005,Clamping Force (lbs),365
+1%20(165),110005,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(165),110005,Action Type,Double Acting
+1%20(165),110005,Direction Of Rotation,Right
+1%20(165),110005,Mounting Thread Size,1-1/16 - 16UN
+1%20(166),110006,Clamp Body Style,Threaded
+1%20(166),110006,Clamping Force (lbs),365
+1%20(166),110006,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(166),110006,Action Type,Double Acting
+1%20(166),110006,Direction Of Rotation,Straight Pull
+1%20(166),110006,Mounting Thread Size,1-1/16 - 16UN
+1%20(167),110007,Clamp Body Style,Manifold
+1%20(167),110007,Clamping Force (lbs),365
+1%20(167),110007,Clamp Port Size,Manifold
+1%20(167),110007,Action Type,Single Acting
+1%20(167),110007,Direction Of Rotation,Left
+1%20(167),110007,Mounting Thread Size,10-24 UNC SHCS
+1%20(168),110008,Clamp Body Style,Manifold
+1%20(168),110008,Clamping Force (lbs),365
+1%20(168),110008,Clamp Port Size,Manifold
+1%20(168),110008,Action Type,Single Acting
+1%20(168),110008,Direction Of Rotation,Right
+1%20(168),110008,Mounting Thread Size,10-24 UNC SHCS
+1%20(169),110009,Clamp Body Style,Manifold
+1%20(169),110009,Clamping Force (lbs),365
+1%20(169),110009,Clamp Port Size,Manifold
+1%20(169),110009,Action Type,Single Acting
+1%20(169),110009,Direction Of Rotation,Straight Pull
+1%20(169),110009,Mounting Thread Size,10-24 UNC SHCS
+1%20(17),110170,Product Specification,Standard Manifold Without Check Valve
+1%20(17),110170,Max Operating Pressure (psi),5000
+1%20(170),110010,Clamp Body Style,Manifold
+1%20(170),110010,Clamping Force (lbs),365
+1%20(170),110010,Clamp Port Size,Manifold
+1%20(170),110010,Action Type,Double Acting
+1%20(170),110010,Direction Of Rotation,Left
+1%20(170),110010,Mounting Thread Size,10-24 UNC SHCS
+1%20(171),110011,Clamp Body Style,Manifold
+1%20(171),110011,Clamping Force (lbs),365
+1%20(171),110011,Clamp Port Size,Manifold
+1%20(171),110011,Action Type,Double Acting
+1%20(171),110011,Direction Of Rotation,Right
+1%20(171),110011,Mounting Thread Size,10-24 UNC SHCS
+1%20(172),110012,Clamp Body Style,Manifold
+1%20(172),110012,Clamping Force (lbs),365
+1%20(172),110012,Clamp Port Size,Manifold
+1%20(172),110012,Action Type,Double Acting
+1%20(172),110012,Direction Of Rotation,Straight Pull
+1%20(172),110012,Mounting Thread Size,10-24 UNC SHCS
+1%20(173),110013,Clamp Body Style,Cartridge
+1%20(173),110013,Clamping Force (lbs),365
+1%20(173),110013,Clamp Port Size,0.125 Port Dia.
+1%20(173),110013,Action Type,Single Acting
+1%20(173),110013,Direction Of Rotation,Left
+1%20(173),110013,Mounting Thread Size,1-1/16 - 12UN
+1%20(174),110014,Clamp Body Style,Cartridge
+1%20(174),110014,Clamping Force (lbs),365
+1%20(174),110014,Clamp Port Size,0.125 Port Dia.
+1%20(174),110014,Action Type,Single Acting
+1%20(174),110014,Direction Of Rotation,Right
+1%20(174),110014,Mounting Thread Size,1-1/16 - 12UN
+1%20(175),110015,Clamp Body Style,Cartridge
+1%20(175),110015,Clamping Force (lbs),365
+1%20(175),110015,Clamp Port Size,0.125 Port Dia.
+1%20(175),110015,Action Type,Single Acting
+1%20(175),110015,Direction Of Rotation,Straight Pull
+1%20(175),110015,Mounting Thread Size,1-1/16 - 12UN
+1%20(176),110016,Clamp Body Style,Cartridge
+1%20(176),110016,Clamping Force (lbs),365
+1%20(176),110016,Clamp Port Size,0.125 Port Dia.
+1%20(176),110016,Action Type,Double Acting
+1%20(176),110016,Direction Of Rotation,Left
+1%20(176),110016,Mounting Thread Size,1-1/16 - 12UN
+1%20(177),110017,Clamp Body Style,Cartridge
+1%20(177),110017,Clamping Force (lbs),365
+1%20(177),110017,Clamp Port Size,0.125 Port Dia.
+1%20(177),110017,Action Type,Double Acting
+1%20(177),110017,Direction Of Rotation,Right
+1%20(177),110017,Mounting Thread Size,1-1/16 - 12UN
+1%20(178),110018,Clamp Body Style,Cartridge
+1%20(178),110018,Clamping Force (lbs),365
+1%20(178),110018,Clamp Port Size,0.125 Port Dia.
+1%20(178),110018,Action Type,Double Acting
+1%20(178),110018,Direction Of Rotation,Straight Pull
+1%20(178),110018,Mounting Thread Size,1-1/16 - 12UN
+1%20(179),110053,Clamp Body Style,Lower Flange - Bottom Port
+1%20(179),110053,Clamping Force (lbs),750
+1%20(179),110053,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(179),110053,Action Type,Double Acting
+1%20(179),110053,Direction Of Rotation,Left
+1%20(179),110053,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(18),110171,Product Specification,Handle Assembly
+1%20(18),110171,Max Operating Pressure (psi),5000
+1%20(180),110054,Clamp Body Style,Lower Flange - Bottom Port
+1%20(180),110054,Clamping Force (lbs),750
+1%20(180),110054,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(180),110054,Action Type,Double Acting
+1%20(180),110054,Direction Of Rotation,Right
+1%20(180),110054,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(181),110055,Clamp Body Style,Lower Flange - Bottom Port
+1%20(181),110055,Clamping Force (lbs),750
+1%20(181),110055,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(181),110055,Action Type,Double Acting
+1%20(181),110055,Direction Of Rotation,Straight Pull
+1%20(181),110055,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(182),110056,Clamp Body Style,Lower Flange - Bottom Port
+1%20(182),110056,Clamping Force (lbs),750
+1%20(182),110056,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(182),110056,Action Type,Single Acting
+1%20(182),110056,Direction Of Rotation,Left
+1%20(182),110056,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(183),110057,Clamp Body Style,Lower Flange - Bottom Port
+1%20(183),110057,Clamping Force (lbs),750
+1%20(183),110057,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(183),110057,Action Type,Single Acting
+1%20(183),110057,Direction Of Rotation,Right
+1%20(183),110057,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(184),110058,Clamp Body Style,Lower Flange - Bottom Port
+1%20(184),110058,Clamping Force (lbs),750
+1%20(184),110058,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(184),110058,Action Type,Single Acting
+1%20(184),110058,Direction Of Rotation,Straight Pull
+1%20(184),110058,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(185),110079,Clamp Body Style,Lower Flange - Bottom Port
+1%20(185),110079,Clamping Force (lbs),2400
+1%20(185),110079,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(185),110079,Action Type,Single Acting
+1%20(185),110079,Direction Of Rotation,Left
+1%20(185),110079,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(186),110080,Clamp Body Style,Lower Flange - Bottom Port
+1%20(186),110080,Clamping Force (lbs),2400
+1%20(186),110080,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(186),110080,Action Type,Single Acting
+1%20(186),110080,Direction Of Rotation,Right
+1%20(186),110080,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(187),110081,Clamp Body Style,Lower Flange - Bottom Port
+1%20(187),110081,Clamping Force (lbs),2400
+1%20(187),110081,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(187),110081,Action Type,Single Acting
+1%20(187),110081,Direction Of Rotation,Straight Pull
+1%20(187),110081,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(188),110082,Clamp Body Style,Lower Flange - Bottom Port
+1%20(188),110082,Clamping Force (lbs),2400
+1%20(188),110082,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(188),110082,Action Type,Double Acting
+1%20(188),110082,Direction Of Rotation,Left
+1%20(188),110082,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(189),110083,Clamp Body Style,Lower Flange - Bottom Port
+1%20(189),110083,Clamping Force (lbs),2400
+1%20(189),110083,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(189),110083,Action Type,Double Acting
+1%20(189),110083,Direction Of Rotation,Right
+1%20(189),110083,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(19),110172,Product Specification,"Coupler, Male-Half (Replacement)"
+1%20(19),110172,Max Operating Pressure (psi),5000
+1%20(190),110084,Clamp Body Style,Lower Flange - Bottom Port
+1%20(190),110084,Clamping Force (lbs),2400
+1%20(190),110084,Clamp Port Size,SAE O-Ring (0.309 Dia Port)
+1%20(190),110084,Action Type,Double Acting
+1%20(190),110084,Direction Of Rotation,Straight Pull
+1%20(190),110084,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(191),110089,Clamp Body Style,Lower Flange
+1%20(191),110089,Clamping Force (lbs),5000
+1%20(191),110089,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(191),110089,Action Type,Single Acting
+1%20(191),110089,Direction Of Rotation,Left
+1%20(191),110089,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(192),110090,Clamp Body Style,Lower Flange
+1%20(192),110090,Clamping Force (lbs),5000
+1%20(192),110090,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(192),110090,Action Type,Single Acting
+1%20(192),110090,Direction Of Rotation,Right
+1%20(192),110090,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(193),110091,Clamp Body Style,Lower Flange
+1%20(193),110091,Clamping Force (lbs),5000
+1%20(193),110091,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(193),110091,Action Type,Single Acting
+1%20(193),110091,Direction Of Rotation,Straight Pull
+1%20(193),110091,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(194),110092,Clamp Body Style,Lower Flange
+1%20(194),110092,Clamping Force (lbs),5000
+1%20(194),110092,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(194),110092,Action Type,Double Acting
+1%20(194),110092,Direction Of Rotation,Left
+1%20(194),110092,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(195),110093,Clamp Body Style,Lower Flange
+1%20(195),110093,Clamping Force (lbs),5000
+1%20(195),110093,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(195),110093,Action Type,Double Acting
+1%20(195),110093,Direction Of Rotation,Right
+1%20(195),110093,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(196),110094,Clamp Body Style,Lower Flange
+1%20(196),110094,Clamping Force (lbs),5000
+1%20(196),110094,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(196),110094,Action Type,Double Acting
+1%20(196),110094,Direction Of Rotation,Straight Pull
+1%20(196),110094,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(197),110095,Clamp Body Style,Lower Flange
+1%20(197),110095,Clamping Force (lbs),5000
+1%20(197),110095,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(197),110095,Action Type,Single Acting
+1%20(197),110095,Direction Of Rotation,Left
+1%20(197),110095,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(198),110096,Clamp Body Style,Lower Flange
+1%20(198),110096,Clamping Force (lbs),5000
+1%20(198),110096,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(198),110096,Action Type,Single Acting
+1%20(198),110096,Direction Of Rotation,Right
+1%20(198),110096,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(199),110097,Clamp Body Style,Lower Flange
+1%20(199),110097,Clamping Force (lbs),5000
+1%20(199),110097,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(199),110097,Action Type,Single Acting
+1%20(199),110097,Direction Of Rotation,Straight Pull
+1%20(199),110097,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(2),100222,Product Specification,Capacity 5.0 cu in
+1%20(2),100222,Type,Mounting Type Conventional
+1%20(2),100222,Max Operating Pressure (psi),5000
+1%20(2),100222,Body Diameter (in),2.5
+1%20(20),110189,Product Specification,Manifold With Built in Check Valve
+1%20(20),110189,Max Operating Pressure (psi),5000
+1%20(200),110098,Clamp Body Style,Lower Flange
+1%20(200),110098,Clamping Force (lbs),5000
+1%20(200),110098,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(200),110098,Action Type,Double Acting
+1%20(200),110098,Direction Of Rotation,Left
+1%20(200),110098,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(201),110099,Clamp Body Style,Lower Flange
+1%20(201),110099,Clamping Force (lbs),5000
+1%20(201),110099,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(201),110099,Action Type,Double Acting
+1%20(201),110099,Direction Of Rotation,Right
+1%20(201),110099,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(202),110100,Clamp Body Style,Lower Flange
+1%20(202),110100,Clamping Force (lbs),5000
+1%20(202),110100,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(202),110100,Action Type,Double Acting
+1%20(202),110100,Direction Of Rotation,Straight Pull
+1%20(202),110100,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(203),110185,Max Clamp Force With Arm (lbs),1200
+1%20(203),110185,Max Clamping Speed (sec),0.5
+1%20(203),110185,Max Flow Rate (cu in/min),34
+1%20(203),110185,Radius (in),0.5
+1%20(203),110185,Max Operating Pressure (psi),5000
+1%20(204),110186,Max Clamp Force With Arm (lbs),335
+1%20(204),110186,Max Clamping Speed (sec),0.9
+1%20(204),110186,Max Flow Rate (cu in/min),17
+1%20(204),110186,Radius (in),0.5
+1%20(204),110186,Max Operating Pressure (psi),2058
+1%20(205),500150,Max Clamp Force With Arm (lbs),2400
+1%20(205),500150,Max Clamping Speed (sec),0.5
+1%20(205),500150,Max Flow Rate (cu in/min),100
+1%20(205),500150,Radius (in),0.688
+1%20(206),500151,Max Clamp Force With Arm (lbs),720
+1%20(206),500151,Max Clamping Speed (sec),0.1
+1%20(206),500151,Max Flow Rate (cu in/min),50
+1%20(206),500151,Radius (in),0.688
+1%20(207),110110,Clamp Body Style,Lower Flange - Side Port
+1%20(207),110110,Clamping Force (lbs),750
+1%20(207),110110,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(207),110110,Action Type,Single Acting
+1%20(207),110110,Direction Of Rotation,Left
+1%20(207),110110,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(208),110111,Clamp Body Style,Lower Flange - Side Port
+1%20(208),110111,Clamping Force (lbs),750
+1%20(208),110111,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(208),110111,Action Type,Single Acting
+1%20(208),110111,Direction Of Rotation,Right
+1%20(208),110111,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(209),110112,Clamp Body Style,Lower Flange - Side Port
+1%20(209),110112,Clamping Force (lbs),750
+1%20(209),110112,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(209),110112,Action Type,Single Acting
+1%20(209),110112,Direction Of Rotation,Straight Pull
+1%20(209),110112,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(21),100179-230,Input Voltage (vac),230
+1%20(21),100179-230,Type,Palletized_System
+1%20(21),100179-230,Power Dissipation (hp),0.5
+1%20(21),100179-230,Max Operating Pressure (psi),5000
+1%20(21),100179-230,Rated Speed (rpm),3450
+1%20(210),110113,Clamp Body Style,Lower Flange - Side Port
+1%20(210),110113,Clamping Force (lbs),750
+1%20(210),110113,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(210),110113,Action Type,Double Acting
+1%20(210),110113,Direction Of Rotation,Left
+1%20(210),110113,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(211),110114,Clamp Body Style,Lower Flange - Side Port
+1%20(211),110114,Clamping Force (lbs),750
+1%20(211),110114,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(211),110114,Action Type,Double Acting
+1%20(211),110114,Direction Of Rotation,Right
+1%20(211),110114,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(212),110115,Clamp Body Style,Lower Flange - Side Port
+1%20(212),110115,Clamping Force (lbs),750
+1%20(212),110115,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(212),110115,Action Type,Double Acting
+1%20(212),110115,Direction Of Rotation,Straight Pull
+1%20(212),110115,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(213),110116,Clamp Body Style,Lower Flange - Side Port
+1%20(213),110116,Clamping Force (lbs),2400
+1%20(213),110116,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(213),110116,Action Type,Single Acting
+1%20(213),110116,Direction Of Rotation,Left
+1%20(213),110116,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(214),110117,Clamp Body Style,Lower Flange - Side Port
+1%20(214),110117,Clamping Force (lbs),2400
+1%20(214),110117,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(214),110117,Action Type,Single Acting
+1%20(214),110117,Direction Of Rotation,Right
+1%20(214),110117,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(215),110118,Clamp Body Style,Lower Flange - Side Port
+1%20(215),110118,Clamping Force (lbs),2400
+1%20(215),110118,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(215),110118,Action Type,Single Acting
+1%20(215),110118,Direction Of Rotation,Straight Pull
+1%20(215),110118,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(216),110119,Clamp Body Style,Lower Flange - Side Port
+1%20(216),110119,Clamping Force (lbs),2400
+1%20(216),110119,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(216),110119,Action Type,Double Acting
+1%20(216),110119,Direction Of Rotation,Left
+1%20(216),110119,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(217),110120,Clamp Body Style,Lower Flange - Side Port
+1%20(217),110120,Clamping Force (lbs),2400
+1%20(217),110120,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(217),110120,Action Type,Double Acting
+1%20(217),110120,Direction Of Rotation,Right
+1%20(217),110120,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(218),110121,Clamp Body Style,Lower Flange - Side Port
+1%20(218),110121,Clamping Force (lbs),2400
+1%20(218),110121,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(218),110121,Action Type,Double Acting
+1%20(218),110121,Direction Of Rotation,Straight Pull
+1%20(218),110121,Mounting Thread Size,5/16-18 UNC SHCS
+1%20(219),110126,Clamp Body Style,Threaded
+1%20(219),110126,Clamping Force (lbs),365
+1%20(219),110126,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(219),110126,Action Type,Single Acting
+1%20(219),110126,Direction Of Rotation,Left
+1%20(219),110126,Mounting Thread Size,1-1/8 - 16UN
+1%20(22),100212-230,Product Specification,"2 hp, 1,725 rpm, 115/230 vac, 27/14 amps max, 50/60 hz, Single Phase"
+1%20(22),100212-230,Min Operating Pressure (psi),1000
+1%20(22),100212-230,Max Operating Pressure (psi),5000
+1%20(220),110127,Clamp Body Style,Threaded
+1%20(220),110127,Clamping Force (lbs),365
+1%20(220),110127,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(220),110127,Action Type,Single Acting
+1%20(220),110127,Direction Of Rotation,Right
+1%20(220),110127,Mounting Thread Size,1-1/8 - 16UN
+1%20(221),110128,Clamp Body Style,Threaded
+1%20(221),110128,Clamping Force (lbs),365
+1%20(221),110128,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(221),110128,Action Type,Single Acting
+1%20(221),110128,Direction Of Rotation,Straight Pull
+1%20(221),110128,Mounting Thread Size,1-1/8 - 16UN
+1%20(222),110129,Clamp Body Style,Threaded
+1%20(222),110129,Clamping Force (lbs),365
+1%20(222),110129,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(222),110129,Action Type,Double Acting
+1%20(222),110129,Direction Of Rotation,Left
+1%20(222),110129,Mounting Thread Size,1-1/8 - 16UN
+1%20(223),110130,Clamp Body Style,Threaded
+1%20(223),110130,Clamping Force (lbs),365
+1%20(223),110130,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(223),110130,Action Type,Single Acting
+1%20(223),110130,Direction Of Rotation,Right
+1%20(223),110130,Mounting Thread Size,1-1/8 - 16UN
+1%20(224),110131,Clamp Body Style,Threaded
+1%20(224),110131,Clamping Force (lbs),365
+1%20(224),110131,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(224),110131,Action Type,Single Acting
+1%20(224),110131,Direction Of Rotation,Straight Pull
+1%20(224),110131,Mounting Thread Size,1-1/8 - 16UN
+1%20(225),110144,Clamp Body Style,Lower Flange - Bottom Port
+1%20(225),110144,Clamping Force (lbs),365
+1%20(225),110144,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(225),110144,Action Type,Single Acting
+1%20(225),110144,Direction Of Rotation,Left
+1%20(225),110144,Mounting Thread Size,10-24 UNC SHCS
+1%20(226),110145,Clamp Body Style,Lower Flange - Bottom Port
+1%20(226),110145,Clamping Force (lbs),365
+1%20(226),110145,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(226),110145,Action Type,Single Acting
+1%20(226),110145,Direction Of Rotation,Right
+1%20(226),110145,Mounting Thread Size,10-24 UNC SHCS
+1%20(227),110146,Clamp Body Style,Lower Flange - Bottom Port
+1%20(227),110146,Clamping Force (lbs),365
+1%20(227),110146,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(227),110146,Action Type,Single Acting
+1%20(227),110146,Direction Of Rotation,Straight Pull
+1%20(227),110146,Mounting Thread Size,10-24 UNC SHCS
+1%20(228),110147,Clamp Body Style,Lower Flange - Bottom Port
+1%20(228),110147,Clamping Force (lbs),365
+1%20(228),110147,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(228),110147,Action Type,Double Acting
+1%20(228),110147,Direction Of Rotation,Left
+1%20(228),110147,Mounting Thread Size,10-24 UNC SHCS
+1%20(229),110148,Clamp Body Style,Lower Flange - Bottom Port
+1%20(229),110148,Clamping Force (lbs),365
+1%20(229),110148,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(229),110148,Action Type,Double Acting
+1%20(229),110148,Direction Of Rotation,Right
+1%20(229),110148,Mounting Thread Size,10-24 UNC SHCS
+1%20(23),100221-230,Product Specification,"2 hp, 1,725 rpm, 230/460 vac, 6.6/3.3 amps max, 50/60 hz, Three Phase"
+1%20(23),100221-230,Min Operating Pressure (psi),1000
+1%20(23),100221-230,Max Operating Pressure (psi),5000
+1%20(230),110149,Clamp Body Style,Lower Flange - Bottom Port
+1%20(230),110149,Clamping Force (lbs),365
+1%20(230),110149,Clamp Port Size,5/16-24 UNF SAE-2
+1%20(230),110149,Action Type,Double Acting
+1%20(230),110149,Direction Of Rotation,Straight Pull
+1%20(230),110149,Mounting Thread Size,10-24 UNC SHCS
+1%20(231),110150,Clamp Body Style,Lower Flange - Side Port
+1%20(231),110150,Clamping Force (lbs),365
+1%20(231),110150,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(231),110150,Action Type,Single Acting
+1%20(231),110150,Direction Of Rotation,Left
+1%20(231),110150,Mounting Thread Size,10-24 UNC SHCS
+1%20(232),110151,Clamp Body Style,Lower Flange - Side Port
+1%20(232),110151,Clamping Force (lbs),365
+1%20(232),110151,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(232),110151,Action Type,Single Acting
+1%20(232),110151,Direction Of Rotation,Right
+1%20(232),110151,Mounting Thread Size,10-24 UNC SHCS
+1%20(233),110152,Clamp Body Style,Lower Flange - Side Port
+1%20(233),110152,Clamping Force (lbs),365
+1%20(233),110152,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(233),110152,Action Type,Single Acting
+1%20(233),110152,Direction Of Rotation,Straight Pull
+1%20(233),110152,Mounting Thread Size,10-24 UNC SHCS
+1%20(234),110153,Clamp Body Style,Lower Flange - Side Port
+1%20(234),110153,Clamping Force (lbs),365
+1%20(234),110153,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(234),110153,Action Type,Double Acting
+1%20(234),110153,Direction Of Rotation,Left
+1%20(234),110153,Mounting Thread Size,10-24 UNC SHCS
+1%20(235),110154,Clamp Body Style,Lower Flange - Side Port
+1%20(235),110154,Clamping Force (lbs),365
+1%20(235),110154,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(235),110154,Action Type,Double Acting
+1%20(235),110154,Direction Of Rotation,Right
+1%20(235),110154,Mounting Thread Size,10-24 UNC SHCS
+1%20(236),110155,Clamp Body Style,Lower Flange - Side Port
+1%20(236),110155,Clamping Force (lbs),365
+1%20(236),110155,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(236),110155,Action Type,Double Acting
+1%20(236),110155,Direction Of Rotation,Straight Pull
+1%20(236),110155,Mounting Thread Size,10-24 UNC SHCS
+1%20(237),110173,Clamp Body Style,Threaded
+1%20(237),110173,Clamping Force (lbs),1200
+1%20(237),110173,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(237),110173,Action Type,Single Acting
+1%20(237),110173,Direction Of Rotation,Counter Clockwise
+1%20(237),110173,Mounting Thread Size,1-1/2 - 16UNF
+1%20(238),110174,Clamp Body Style,Threaded
+1%20(238),110174,Clamping Force (lbs),1200
+1%20(238),110174,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(238),110174,Action Type,Single Acting
+1%20(238),110174,Direction Of Rotation,Clockwise
+1%20(238),110174,Mounting Thread Size,1-1/2 - 16UNF
+1%20(239),110175,Clamp Body Style,Threaded
+1%20(239),110175,Clamping Force (lbs),1200
+1%20(239),110175,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(239),110175,Action Type,Single Acting
+1%20(239),110175,Direction Of Rotation,Straight Pull
+1%20(239),110175,Mounting Thread Size,1-1/2 - 16UNF
+1%20(24),100879-230,Input Voltage (vac),230
+1%20(24),100879-230,Type,Palletized_System
+1%20(24),100879-230,Power Dissipation (hp),1
+1%20(24),100879-230,Max Operating Pressure (psi),5000
+1%20(24),100879-230,Rated Speed (rpm),1725
+1%20(240),110176,Clamp Body Style,Threaded
+1%20(240),110176,Clamping Force (lbs),1200
+1%20(240),110176,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(240),110176,Action Type,Double Acting
+1%20(240),110176,Direction Of Rotation,Counter Clockwise
+1%20(240),110176,Mounting Thread Size,1-1/2 - 16UNF
+1%20(241),110177,Clamp Body Style,Threaded
+1%20(241),110177,Clamping Force (lbs),1200
+1%20(241),110177,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(241),110177,Action Type,Double Acting
+1%20(241),110177,Direction Of Rotation,Clockwise
+1%20(241),110177,Mounting Thread Size,1-1/2 - 16UNF
+1%20(242),110178,Clamp Body Style,Threaded
+1%20(242),110178,Clamping Force (lbs),1200
+1%20(242),110178,Clamp Port Size,7/16-20 UNF SAE-4
+1%20(242),110178,Action Type,Double Acting
+1%20(242),110178,Direction Of Rotation,Straight Pull
+1%20(242),110178,Mounting Thread Size,1-1/2 - 16UNF
+1%20(243),110179,Clamp Body Style,Lower Flange - Bottom Port
+1%20(243),110179,Clamping Force (lbs),1200
+1%20(243),110179,Clamp Port Size,SAE O-Ring (0.13 Dia Port)
+1%20(243),110179,Action Type,Single Acting
+1%20(243),110179,Direction Of Rotation,Counter Clockwise
+1%20(243),110179,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(244),110180,Clamp Body Style,Lower Flange - Bottom Port
+1%20(244),110180,Clamping Force (lbs),1200
+1%20(244),110180,Clamp Port Size,SAE O-Ring (0.13 Dia Port)
+1%20(244),110180,Action Type,Single Acting
+1%20(244),110180,Direction Of Rotation,Clockwise
+1%20(244),110180,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(245),110181,Clamp Body Style,Lower Flange - Bottom Port
+1%20(245),110181,Clamping Force (lbs),1200
+1%20(245),110181,Clamp Port Size,SAE O-Ring (0.13 Dia Port)
+1%20(245),110181,Action Type,Single Acting
+1%20(245),110181,Direction Of Rotation,Straight Pull
+1%20(245),110181,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(246),110182,Clamp Body Style,Lower Flange - Bottom Port
+1%20(246),110182,Clamping Force (lbs),1200
+1%20(246),110182,Clamp Port Size,SAE O-Ring (0.13 Dia Port)
+1%20(246),110182,Action Type,Double Acting
+1%20(246),110182,Direction Of Rotation,Counter Clockwise
+1%20(246),110182,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(247),110183,Clamp Body Style,Lower Flange - Bottom Port
+1%20(247),110183,Clamping Force (lbs),1200
+1%20(247),110183,Clamp Port Size,SAE O-Ring (0.13 Dia Port)
+1%20(247),110183,Action Type,Double Acting
+1%20(247),110183,Direction Of Rotation,Clockwise
+1%20(247),110183,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(248),110184,Clamp Body Style,Lower Flange - Bottom Port
+1%20(248),110184,Clamping Force (lbs),1200
+1%20(248),110184,Clamp Port Size,SAE O-Ring (0.13 Dia Port)
+1%20(248),110184,Action Type,Double Acting
+1%20(248),110184,Direction Of Rotation,Straight Pull
+1%20(248),110184,Mounting Thread Size,1/4-20 UNC SHCS
+1%20(249),500152,Max Clamp Force With Arm (lbs),4500
+1%20(249),500152,Max Clamping Speed (sec),0.5
+1%20(249),500152,Max Flow Rate (cu in/min),250
+1%20(249),500152,Radius (in),0.93
+1%20(25),100888-230,Input Voltage (vac),230
+1%20(25),100888-230,Type,Palletized_System
+1%20(25),100888-230,Power Dissipation (hp),1
+1%20(25),100888-230,Max Operating Pressure (psi),5000
+1%20(25),100888-230,Rated Speed (rpm),1725
+1%20(250),500153,Max Clamp Force With Arm (lbs),1540
+1%20(250),500153,Max Clamping Speed (sec),0.1
+1%20(250),500153,Max Flow Rate (cu in/min),125
+1%20(250),500153,Radius (in),0.93
+1%20(251),110187,Outside Diameter (in),2.25
+1%20(251),110187,Mounting Thread Size,1-1/2 - 16UNF
+1%20(252),110188,Mounting Thread Size,1-1/2 - 16UNF
+1%20(253),110191,Clamp Body Style,Manifold
+1%20(253),110191,Clamping Force (lbs),1200
+1%20(253),110191,Clamp Port Size,Manifold
+1%20(253),110191,Action Type,Single Acting
+1%20(253),110191,Direction Of Rotation,Left
+1%20(254),110192,Clamp Body Style,Manifold
+1%20(254),110192,Clamping Force (lbs),1200
+1%20(254),110192,Clamp Port Size,Manifold
+1%20(254),110192,Action Type,Single Acting
+1%20(254),110192,Direction Of Rotation,Right
+1%20(255),110193,Clamp Body Style,Manifold
+1%20(255),110193,Clamping Force (lbs),1200
+1%20(255),110193,Clamp Port Size,Manifold
+1%20(255),110193,Action Type,Single Acting
+1%20(255),110193,Direction Of Rotation,Straight Pull
+1%20(256),110194,Clamp Body Style,Manifold
+1%20(256),110194,Clamping Force (lbs),1200
+1%20(256),110194,Clamp Port Size,Manifold
+1%20(256),110194,Action Type,Double Acting
+1%20(256),110194,Direction Of Rotation,Left
+1%20(257),110195,Clamp Body Style,Manifold
+1%20(257),110195,Clamping Force (lbs),1200
+1%20(257),110195,Clamp Port Size,Manifold
+1%20(257),110195,Action Type,Double Acting
+1%20(257),110195,Direction Of Rotation,Right
+1%20(258),110196,Clamp Body Style,Manifold
+1%20(258),110196,Clamping Force (lbs),1200
+1%20(258),110196,Clamp Port Size,Manifold
+1%20(258),110196,Action Type,Double Acting
+1%20(258),110196,Direction Of Rotation,Straight Pull
+1%20(259),500154,Max Clamp Force With Arm (lbs),750
+1%20(259),500154,Max Clamping Speed (sec),0.4
+1%20(259),500154,Max Flow Rate (cu in/min),25
+1%20(259),500154,Radius (in),0.435
+1%20(26),100843,Type,Remote_Mounted_Control_Valve
+1%20(26),100843,Actuation Type,Manual
+1%20(26),100843,Max Operating Pressure (psi),5000
+1%20(260),500155,Max Clamp Force With Arm (lbs),220
+1%20(260),500155,Max Clamping Speed (sec),0.8
+1%20(260),500155,Max Flow Rate (cu in/min),12
+1%20(260),500155,Radius (in),0.435
+1%20(261),500167,Max Clamp Force With Arm (lbs),340
+1%20(261),500167,Max Clamping Speed (sec),0.3
+1%20(261),500167,Max Flow Rate (cu in/min),15
+1%20(261),500167,Radius (in),0.33
+1%20(262),500168,Max Clamp Force With Arm (lbs),125
+1%20(262),500168,Max Clamping Speed (sec),0.5
+1%20(262),500168,Max Flow Rate (cu in/min),8
+1%20(262),500168,Radius (in),0.33
+1%20(263),110101,Max Flow Rate (cu in/min),45
+1%20(263),110101,Max Swing Speed (sec),0.25
+1%20(263),110101,Retract Port Size,7/16-20UNF SAE-4
+1%20(263),110101,Clamping Force (lbs),1610
+1%20(263),110101,Action Type,Double Acting
+1%20(263),110101,Direction Of Rotation,Right
+1%20(263),110101,Max Adjustment Range (in),1.5
+1%20(264),110102,Max Flow Rate (cu in/min),45
+1%20(264),110102,Max Swing Speed (sec),0.25
+1%20(264),110102,Retract Port Size,7/16-20UNF SAE-4
+1%20(264),110102,Clamping Force (lbs),1610
+1%20(264),110102,Action Type,Double Acting
+1%20(264),110102,Direction Of Rotation,Left
+1%20(264),110102,Max Adjustment Range (in),1.5
+1%20(265),110103,Max Flow Rate (cu in/min),15
+1%20(265),110103,Max Swing Speed (sec),0.5
+1%20(265),110103,Retract Port Size,7/16-20UNF SAE-4
+1%20(265),110103,Clamping Force (lbs),3780
+1%20(265),110103,Action Type,Double Acting
+1%20(265),110103,Direction Of Rotation,Right
+1%20(265),110103,Max Adjustment Range (in),2
+1%20(266),110104,Max Flow Rate (cu in/min),15
+1%20(266),110104,Max Swing Speed (sec),0.5
+1%20(266),110104,Retract Port Size,7/16-20UNF SAE-4
+1%20(266),110104,Clamping Force (lbs),3780
+1%20(266),110104,Action Type,Double Acting
+1%20(266),110104,Direction Of Rotation,Left
+1%20(266),110104,Max Adjustment Range (in),2
+1%20(267),110105,Max Flow Rate (cu in/min),10
+1%20(267),110105,Max Swing Speed (sec),1
+1%20(267),110105,Retract Port Size,7/16-20UNF SAE-4
+1%20(267),110105,Clamping Force (lbs),8295
+1%20(267),110105,Action Type,Double Acting
+1%20(267),110105,Direction Of Rotation,Right
+1%20(267),110105,Max Adjustment Range (in),2.375
+1%20(268),110106,Max Flow Rate (cu in/min),10
+1%20(268),110106,Max Swing Speed (sec),1
+1%20(268),110106,Retract Port Size,7/16-20UNF SAE-4
+1%20(268),110106,Clamping Force (lbs),8295
+1%20(268),110106,Action Type,Double Acting
+1%20(268),110106,Direction Of Rotation,Left
+1%20(268),110106,Max Adjustment Range (in),2.375
+1%20(269),110107,Max Flow Rate (cu in/min),15
+1%20(269),110107,Min Adjustment Range (in),0.25
+1%20(269),110107,Min Operating Pressure (psi),500
+1%20(269),110107,Clamping Force (lbs),1610
+1%20(269),110107,Action Type,Double Acting
+1%20(269),110107,Max Adjustment Range (in),2.125
+1%20(27),9608,Port Thread Size,1/4 NPTF
+1%20(27),9608,Max Operating Pressure (psi),5000
+1%20(270),110108,Max Flow Rate (cu in/min),15
+1%20(270),110108,Min Adjustment Range (in),0.062
+1%20(270),110108,Min Operating Pressure (psi),500
+1%20(270),110108,Clamping Force (lbs),3780
+1%20(270),110108,Action Type,Double Acting
+1%20(270),110108,Max Adjustment Range (in),2.125
+1%20(271),110109,Max Flow Rate (cu in/min),15
+1%20(271),110109,Min Adjustment Range (in),0.438
+1%20(271),110109,Min Operating Pressure (psi),500
+1%20(271),110109,Clamping Force (lbs),8295
+1%20(271),110109,Action Type,Double Acting
+1%20(271),110109,Max Adjustment Range (in),2.938
+1%20(272),10390,Type,Jam_Nut_TB
+1%20(272),10390,Hex Width (in),0.75
+1%20(273),10391,Type,Jam_Nut_TB
+1%20(273),10391,Hex Width (in),0.75
+1%20(274),10394,Type,Jam_Nut_TB
+1%20(274),10394,Hex Width (in),0.938
+1%20(275),10395,Type,Jam_Nut_TB
+1%20(275),10395,Hex Width (in),0.938
+1%20(276),10396,Type,Jam_Nut_TB
+1%20(276),10396,Hex Width (in),1.125
+1%20(277),10397,Type,Jam_Nut_TB
+1%20(277),10397,Hex Width (in),1.125
+1%20(278),100064,Clamping Force (lbs),245
+1%20(278),100064,Action Type,Single Acting
+1%20(278),100064,Max Operating Pressure (psi),5000
+1%20(279),100065,Clamping Force (lbs),245
+1%20(279),100065,Action Type,Single Acting
+1%20(279),100065,Max Operating Pressure (psi),5000
+1%20(28),9613,Max Operating Pressure (psi),5000
+1%20(280),100139,Clamping Force (lbs),550
+1%20(280),100139,Action Type,Single Acting
+1%20(280),100139,Max Operating Pressure (psi),5000
+1%20(281),100148,Clamping Force (lbs),550
+1%20(281),100148,Action Type,Single Acting
+1%20(281),100148,Max Operating Pressure (psi),5000
+1%20(282),100149,Clamping Force (lbs),750
+1%20(282),100149,Action Type,Single Acting
+1%20(282),100149,Max Operating Pressure (psi),5000
+1%20(283),100153,Clamping Force (lbs),750
+1%20(283),100153,Action Type,Single Acting
+1%20(283),100153,Max Operating Pressure (psi),5000
+1%20(284),100156,Clamping Force (lbs),245
+1%20(284),100156,Action Type,Single Acting
+1%20(284),100156,Max Operating Pressure (psi),5000
+1%20(285),100157,Clamping Force (lbs),245
+1%20(285),100157,Action Type,Single Acting
+1%20(285),100157,Max Operating Pressure (psi),5000
+1%20(286),100159,Clamping Force (lbs),550
+1%20(286),100159,Action Type,Single Acting
+1%20(286),100159,Max Operating Pressure (psi),5000
+1%20(287),100166,Clamping Force (lbs),550
+1%20(287),100166,Action Type,Single Acting
+1%20(287),100166,Max Operating Pressure (psi),5000
+1%20(288),100167,Clamping Force (lbs),750
+1%20(288),100167,Action Type,Single Acting
+1%20(288),100167,Max Operating Pressure (psi),5000
+1%20(289),100171,Clamping Force (lbs),750
+1%20(289),100171,Action Type,Single Acting
+1%20(289),100171,Max Operating Pressure (psi),5000
+1%20(29),100128,Max Operating Pressure (psi),5000
+1%20(290),100172,Clamping Force (lbs),1535
+1%20(290),100172,Action Type,Single Acting
+1%20(290),100172,Max Operating Pressure (psi),5000
+1%20(291),100173,Clamping Force (lbs),1535
+1%20(291),100173,Action Type,Single Acting
+1%20(291),100173,Max Operating Pressure (psi),5000
+1%20(292),110059,Holding Capacity (lbs),290
+1%20(292),110059,Cylinder Body Height (in),1.115
+1%20(292),110059,Max Operating Pressure (psi),5000
+1%20(292),110059,Body Diameter (in),0.81
+1%20(292),110059,Clamping Spread Length (in),0.565
+1%20(293),100201,Product Specification,Vertical Block Mount
+1%20(293),100201,Clamping Force (lbs),11180
+1%20(293),100201,Cylinder Body Height (in),0.718
+1%20(293),100201,Action Type,Single Acting
+1%20(293),100201,Max Operating Pressure (psi),5000
+1%20(293),100201,Outside Diameter (in),3.25
+1%20(294),100202,Product Specification,Vertical Block Mount
+1%20(294),100202,Clamping Force (lbs),22150
+1%20(294),100202,Cylinder Body Height (in),0.968
+1%20(294),100202,Action Type,Single Acting
+1%20(294),100202,Max Operating Pressure (psi),5000
+1%20(294),100202,Outside Diameter (in),4
+1%20(295),100203,Product Specification,Vertical Block Mount
+1%20(295),100203,Clamping Force (lbs),4920
+1%20(295),100203,Cylinder Body Height (in),0.562
+1%20(295),100203,Action Type,Single Acting
+1%20(295),100203,Max Operating Pressure (psi),5000
+1%20(295),100203,Outside Diameter (in),2.812
+1%20(296),100208,Clamping Force (lbs),3927
+1%20(296),100208,Action Type,Single Acting
+1%20(296),100208,Max Operating Pressure (psi),5000
+1%20(297),100855,Product Specification,Vertical Block Mount
+1%20(297),100855,Clamping Force (lbs),4920
+1%20(297),100855,Cylinder Body Height (in),0.218
+1%20(297),100855,Action Type,Single Acting
+1%20(297),100855,Max Operating Pressure (psi),5000
+1%20(297),100855,Outside Diameter (in),2.875
+1%20(298),100866,Clamping Force (lbs),5215
+1%20(298),100866,Action Type,Single Acting
+1%20(298),100866,Max Operating Pressure (psi),5000
+1%20(298),100866,Outside Diameter (in),2
+1%20(299),100867,Clamping Force (lbs),1740
+1%20(299),100867,Action Type,Single Acting
+1%20(299),100867,Max Operating Pressure (psi),5000
+1%20(299),100867,Outside Diameter (in),1.5
+1%20(3),100982,Product Specification,Capacity 2.0 cu in
+1%20(3),100982,Type,Mounting Type Manifold
+1%20(3),100982,Max Operating Pressure (psi),5000
+1%20(3),100982,Body Diameter (in),2.5
+1%20(30),100129,Max Operating Pressure (psi),5000
+1%20(300),100880,Clamping Force (lbs),5215
+1%20(300),100880,Action Type,Single Acting
+1%20(300),100880,Max Operating Pressure (psi),5000
+1%20(300),100880,Outside Diameter (in),2
+1%20(301),100925,Product Specification,Vertical Block Mount
+1%20(301),100925,Clamping Force (lbs),4920
+1%20(301),100925,Cylinder Body Height (in),0.218
+1%20(301),100925,Action Type,Single Acting
+1%20(301),100925,Max Operating Pressure (psi),5000
+1%20(301),100925,Outside Diameter (in),2.875
+1%20(302),100927,Port Thread Size,7/16-20 UNF SAE-4
+1%20(302),100927,Mounting Thread Size,1/2-20 UNF
+1%20(302),100927,Hex Width (in),0.75
+1%20(303),100928,Port Thread Size,7/16-20 UNF SAE-4
+1%20(303),100928,Mounting Thread Size,1/2-13 UNC
+1%20(303),100928,Hex Width (in),0.75
+1%20(304),100929,Port Thread Size,7/16-20 UNF SAE-4
+1%20(304),100929,Mounting Thread Size,5/8-18 UNF
+1%20(304),100929,Hex Width (in),0.875
+1%20(305),100930,Port Thread Size,7/16-20 UNF SAE-4
+1%20(305),100930,Mounting Thread Size,5/8-11 UNC
+1%20(305),100930,Hex Width (in),0.875
+1%20(306),100931,Port Thread Size,7/16-20 UNF SAE-4
+1%20(306),100931,Mounting Thread Size,3/4-16 UNF
+1%20(306),100931,Hex Width (in),1
+1%20(307),100932,Port Thread Size,7/16-20 UNF SAE-4
+1%20(307),100932,Mounting Thread Size,3/4-10 UNC
+1%20(307),100932,Hex Width (in),1
+1%20(308),100933,Port Thread Size,7/16-20 UNF SAE-4
+1%20(308),100933,Mounting Thread Size,1-12 UNF
+1%20(308),100933,Hex Width (in),1.25
+1%20(309),100934,Advance Port Size,7/16-20UNF SAE-4
+1%20(309),100934,Retract Port Size,7/16-20UNF SAE-4
+1%20(309),100934,Clamping Force (lbs),6630
+1%20(309),100934,Retracted Height,3.203
+1%20(309),100934,Cylinder Body Height (in),3.203
+1%20(309),100934,Max Operating Pressure (psi),5000
+1%20(309),100934,Outside Diameter (in),2.812
+1%20(31),100942,Port Thread Size,7/16-20 UNF SAE-4
+1%20(31),100942,Max Operating Pressure (psi),5000
+1%20(310),100935,Advance Port Size,7/16-20UNF SAE-4
+1%20(310),100935,Retract Port Size,7/16-20UNF SAE-4
+1%20(310),100935,Clamping Force (lbs),6630
+1%20(310),100935,Retracted Height,4.203
+1%20(310),100935,Cylinder Body Height (in),4.203
+1%20(310),100935,Max Operating Pressure (psi),5000
+1%20(310),100935,Outside Diameter (in),2.812
+1%20(311),100936,Advance Port Size,7/16-20UNF SAE-4
+1%20(311),100936,Retract Port Size,7/16-20UNF SAE-4
+1%20(311),100936,Clamping Force (lbs),10735
+1%20(311),100936,Retracted Height,3.304
+1%20(311),100936,Cylinder Body Height (in),3.304
+1%20(311),100936,Max Operating Pressure (psi),5000
+1%20(311),100936,Outside Diameter (in),3.5
+1%20(312),100937,Advance Port Size,7/16-20UNF SAE-4
+1%20(312),100937,Retract Port Size,7/16-20UNF SAE-4
+1%20(312),100937,Clamping Force (lbs),10735
+1%20(312),100937,Retracted Height,4.304
+1%20(312),100937,Cylinder Body Height (in),4.304
+1%20(312),100937,Max Operating Pressure (psi),5000
+1%20(312),100937,Outside Diameter (in),3.5
+1%20(313),100938,Advance Port Size,7/16-20UNF SAE-4
+1%20(313),100938,Retract Port Size,7/16-20UNF SAE-4
+1%20(313),100938,Clamping Force (lbs),10735
+1%20(313),100938,Retracted Height,3.304
+1%20(313),100938,Cylinder Body Height (in),3.304
+1%20(313),100938,Max Operating Pressure (psi),5000
+1%20(313),100938,Outside Diameter (in),3.5
+1%20(314),100939,Advance Port Size,7/16-20UNF SAE-4
+1%20(314),100939,Retract Port Size,7/16-20UNF SAE-4
+1%20(314),100939,Clamping Force (lbs),10735
+1%20(314),100939,Retracted Height,4.304
+1%20(314),100939,Cylinder Body Height (in),4.304
+1%20(314),100939,Max Operating Pressure (psi),5000
+1%20(314),100939,Outside Diameter (in),3.5
+1%20(315),100940,Advance Port Size,7/16-20UNF SAE-4
+1%20(315),100940,Clamping Force (lbs),17120
+1%20(315),100940,Retracted Height,3.14
+1%20(315),100940,Cylinder Body Height (in),3.14
+1%20(315),100940,Max Operating Pressure (psi),5000
+1%20(315),100940,Outside Diameter (in),3.37
+1%20(316),110060,Holding Capacity (lbs),290
+1%20(316),110060,Cylinder Body Height (in),1.115
+1%20(316),110060,Max Operating Pressure (psi),2500
+1%20(316),110060,Body Diameter (in),1.185
+1%20(316),110060,Clamping Spread Length (in),0.565
+1%20(317),110061,Holding Capacity (lbs),1500
+1%20(317),110061,Cylinder Body Height (in),1.24
+1%20(317),110061,Max Operating Pressure (psi),5000
+1%20(317),110061,Body Diameter (in),1.185
+1%20(317),110061,Clamping Spread Length (in),0.83
+1%20(318),110062,Holding Capacity (lbs),1500
+1%20(318),110062,Cylinder Body Height (in),1.24
+1%20(318),110062,Max Operating Pressure (psi),2500
+1%20(318),110062,Body Diameter (in),1.309
+1%20(318),110062,Clamping Spread Length (in),0.83
+1%20(319),110063,Holding Capacity (lbs),2000
+1%20(319),110063,Cylinder Body Height (in),1.24
+1%20(319),110063,Max Operating Pressure (psi),5000
+1%20(319),110063,Body Diameter (in),1.309
+1%20(319),110063,Clamping Spread Length (in),1.12
+1%20(32),100943,Max Operating Pressure (psi),5000
+1%20(320),110064,Holding Capacity (lbs),2000
+1%20(320),110064,Cylinder Body Height (in),1.365
+1%20(320),110064,Max Operating Pressure (psi),2500
+1%20(320),110064,Body Diameter (in),1.748
+1%20(320),110064,Clamping Spread Length (in),1.12
+1%20(321),110065,Holding Capacity (lbs),3500
+1%20(321),110065,Cylinder Body Height (in),1.365
+1%20(321),110065,Max Operating Pressure (psi),5000
+1%20(321),110065,Body Diameter (in),1.748
+1%20(321),110065,Clamping Spread Length (in),1.65
+1%20(322),110066,Holding Capacity (lbs),3500
+1%20(322),110066,Cylinder Body Height (in),1.49
+1%20(322),110066,Max Operating Pressure (psi),2500
+1%20(322),110066,Body Diameter (in),2.123
+1%20(322),110066,Clamping Spread Length (in),1.65
+1%20(323),110067,Holding Capacity (lbs),6000
+1%20(323),110067,Cylinder Body Height (in),1.49
+1%20(323),110067,Max Operating Pressure (psi),5000
+1%20(323),110067,Body Diameter (in),2.123
+1%20(323),110067,Clamping Spread Length (in),2.175
+1%20(324),110068,Holding Capacity (lbs),6000
+1%20(324),110068,Cylinder Body Height (in),1.615
+1%20(324),110068,Max Operating Pressure (psi),2500
+1%20(324),110068,Body Diameter (in),2.873
+1%20(324),110068,Clamping Spread Length (in),2.175
+1%20(325),500184,Holding Capacity (lbs),500
+1%20(325),500184,Clamping Spread Length (in),0.565
+1%20(326),500185,Holding Capacity (lbs),1500
+1%20(326),500185,Clamping Spread Length (in),0.83
+1%20(327),500186,Holding Capacity (lbs),2000
+1%20(327),500186,Clamping Spread Length (in),1.12
+1%20(328),500187,Holding Capacity (lbs),3500
+1%20(328),500187,Clamping Spread Length (in),1.65
+1%20(329),500188,Holding Capacity (lbs),6000
+1%20(329),500188,Clamping Spread Length (in),2.175
+1%20(33),110156,Product Specification,Filter On Port
+1%20(33),110156,Port Thread Size,7/16-20 UNF SAE-4
+1%20(33),110156,Max Operating Pressure (psi),5000
+1%20(330),110069,Clamping Force (lbs),685
+1%20(330),110069,Action Type,Single Acting
+1%20(330),110069,Max Operating Pressure (psi),5000
+1%20(330),110069,Outside Diameter (in),0.81
+1%20(331),110070,Clamping Force (lbs),883
+1%20(331),110070,Action Type,Single Acting
+1%20(331),110070,Max Operating Pressure (psi),5000
+1%20(331),110070,Outside Diameter (in),1.185
+1%20(332),110071,Clamping Force (lbs),1765
+1%20(332),110071,Action Type,Single Acting
+1%20(332),110071,Max Operating Pressure (psi),5000
+1%20(332),110071,Outside Diameter (in),1.185
+1%20(333),110072,Clamping Force (lbs),1343
+1%20(333),110072,Action Type,Single Acting
+1%20(333),110072,Max Operating Pressure (psi),5000
+1%20(333),110072,Outside Diameter (in),1.309
+1%20(334),110073,Clamping Force (lbs),2685
+1%20(334),110073,Action Type,Single Acting
+1%20(334),110073,Max Operating Pressure (psi),5000
+1%20(334),110073,Outside Diameter (in),1.309
+1%20(335),110074,Clamping Force (lbs),2605
+1%20(335),110074,Action Type,Single Acting
+1%20(335),110074,Max Operating Pressure (psi),5000
+1%20(335),110074,Outside Diameter (in),1.748
+1%20(336),110075,Clamping Force (lbs),5210
+1%20(336),110075,Action Type,Single Acting
+1%20(336),110075,Max Operating Pressure (psi),5000
+1%20(336),110075,Outside Diameter (in),1.748
+1%20(337),110076,Clamping Force (lbs),4505
+1%20(337),110076,Action Type,Single Acting
+1%20(337),110076,Max Operating Pressure (psi),5000
+1%20(337),110076,Outside Diameter (in),2.123
+1%20(338),110077,Clamping Force (lbs),9010
+1%20(338),110077,Action Type,Single Acting
+1%20(338),110077,Max Operating Pressure (psi),5000
+1%20(338),110077,Outside Diameter (in),2.123
+1%20(339),110078,Clamping Force (lbs),8855
+1%20(339),110078,Action Type,Single Acting
+1%20(339),110078,Max Operating Pressure (psi),5000
+1%20(339),110078,Outside Diameter (in),2.873
+1%20(34),110157,Product Specification,Filter On Port
+1%20(34),110157,Port Thread Size,1/4 NPTF
+1%20(34),110157,Max Operating Pressure (psi),5000
+1%20(340),110132,Clamping Force (lbs),3927
+1%20(340),110132,Action Type,Single Acting
+1%20(340),110132,Max Operating Pressure (psi),5000
+1%20(341),110200,Product Specification,"Clamp Free Diameter 0.49 in, Minimum Bore Machining Diameter = 0.28 in, Model Number = #0"
+1%20(342),110201,Product Specification,"Clamp Free Diameter 0.56 in, Minimum Bore Machining Diameter = 0.48 in, Model Number = #1"
+1%20(343),110202,Product Specification,"Clamp Free Diameter 0.79 in, Minimum Bore Machining Diameter = 0.53 in, Model Number = #2"
+1%20(344),110203,Product Specification,"Clamp Free Diameter 1.06 in, Minimum Bore Machining Diameter = 0.71 in, Model Number = #3"
+1%20(345),110204,Product Specification,"Clamp Free Diameter 1.39 in, Minimum Bore Machining Diameter = 0.90 in, Model Number = #4"
+1%20(346),110205,Product Specification,"Clamp Free Diameter 1.65 in, Minimum Bore Machining Diameter = 1.15 in, Model Number = #5"
+1%20(347),110206,Product Specification,"Clamp Free Diameter 2.03 in, Minimum Bore Machining Diameter = 1.15 in, Model Number = #6"
+1%20(348),110207,Product Specification,"Clamp Free Diameter 3.06 in, Minimum Bore Machining Diameter = 1.15 in, Model Number = #7"
+1%20(349),201029,Type,Jam_Nut_TB
+1%20(349),201029,Hex Width (in),1.5
+1%20(35),9503,Type,Remote_Mounted_Control_Valve
+1%20(35),9503,Actuation Type,Manual
+1%20(35),9503,Max Operating Pressure (psi),5000
+1%20(350),201884,Product Specification,Crowned Threaded Inserts
+1%20(351),216207,Type,Jam_Nut_TB
+1%20(351),216207,Hex Width (in),2
+1%20(352),300084,Product Specification,"Clearance Diameter = 1.8 in, Nominal Shaft Diameter 1.375 in, Used with catalog no. 100043B,10044B"
+1%20(352),300084,Type,Snap_Ring_CBC
+1%20(353),300086,Product Specification,"Clearance Diameter = 3.18 in, Nominal Shaft Diameter 2.25 in, Used with catalog no.100049B,10050B"
+1%20(353),300086,Type,Snap_Ring_CBC
+1%20(354),400000,Type,Foot_Mount_Bracket_TB
+1%20(354),400000,Depth (in),1.312
+1%20(355),400001,Type,Foot_Mount_Bracket_TB
+1%20(355),400001,Depth (in),1.625
+1%20(356),400002,Type,Foot_Mount_Bracket_TB
+1%20(356),400002,Depth (in),1.687
+1%20(357),400003,Type,Foot_Mount_Bracket_TB
+1%20(357),400003,Depth (in),2
+1%20(358),400013,Product Specification,Through Hole Diameter = 1.375
+1%20(358),400013,Type,Foot_Mount_Bracket_CBC
+1%20(358),400013,Depth (in),2.125
+1%20(359),400015,Product Specification,Through Hole Diameter = 2.25
+1%20(359),400015,Type,Foot_Mount_Bracket_CBC
+1%20(359),400015,Depth (in),3
+1%20(36),9504,Type,Pump_Mounted_Control_Valve
+1%20(36),9504,Actuation Type,Manual
+1%20(36),9504,Max Operating Pressure (psi),5000
+1%20(360),500097,Port Thread Size,1/8 NPTF
+1%20(360),500097,Mounting Thread Size,1/2-20 UNF
+1%20(360),500097,Hex Width (in),0.75
+1%20(361),500098,Port Thread Size,1/4 NPTF
+1%20(361),500098,Mounting Thread Size,5/8-18 UNF
+1%20(361),500098,Hex Width (in),0.875
+1%20(362),500099,Port Thread Size,1/4 NPTF
+1%20(362),500099,Mounting Thread Size,3/4-16 UNF
+1%20(362),500099,Hex Width (in),1
+1%20(363),500100,Port Thread Size,1/8 NPTF
+1%20(363),500100,Mounting Thread Size,1/2-13 UNC
+1%20(363),500100,Hex Width (in),0.75
+1%20(364),500101,Port Thread Size,1/4 NPTF
+1%20(364),500101,Mounting Thread Size,5/8-11 UNC
+1%20(364),500101,Hex Width (in),0.875
+1%20(365),500102,Port Thread Size,1/4 NPTF
+1%20(365),500102,Mounting Thread Size,3/4-10 UNC
+1%20(365),500102,Hex Width (in),1
+1%20(366),500103,Port Thread Size,1/4 NPTF
+1%20(366),500103,Mounting Thread Size,1-12 UNF
+1%20(366),500103,Hex Width (in),1.25
+1%20(367),500160,Product Specification,Crowned Threaded Inserts
+1%20(368),500161,Product Specification,Pointed Threaded Inserts
+1%20(368),500161,Hex Width (in),0.312
+1%20(368),500161,Head Height (in),0.25
+1%20(369),500162,Product Specification,Toggle Pad Threaded Insert
+1%20(37),9573,Type,Remote_Mounted_Control_Valve
+1%20(37),9573,Actuation Type,"24 VAC, 50/60 Hz 25.4 Amps inrush, 2.8 Amps holding"
+1%20(37),9573,Max Operating Pressure (psi),5000
+1%20(370),500163,Product Specification,Crowned Threaded Inserts
+1%20(371),500164,Product Specification,Pointed Threaded Inserts
+1%20(371),500164,Hex Width (in),0.375
+1%20(371),500164,Head Height (in),0.25
+1%20(372),500165,Product Specification,Toggle Pad Threaded Insert
+1%20(373),100043B,Product Specification,Retracted Length = 2.75
+1%20(373),100043B,Clamping Force (lbs),2210
+1%20(373),100043B,Type,Cylinders_CBC
+1%20(373),100043B,Action Type,Double Acting
+1%20(373),100043B,Max Operating Pressure (psi),5000
+1%20(373),100043B,Body Diameter (in),1.368
+1%20(373),100043B,Unclamping Force (lbs),1225
+1%20(374),100044B,Product Specification,Retracted Length = 3.25
+1%20(374),100044B,Clamping Force (lbs),2210
+1%20(374),100044B,Type,Cylinders_CBC
+1%20(374),100044B,Action Type,Double Acting
+1%20(374),100044B,Max Operating Pressure (psi),5000
+1%20(374),100044B,Body Diameter (in),1.368
+1%20(374),100044B,Unclamping Force (lbs),1225
+1%20(375),100049B,Product Specification,Retracted Length = 3.25
+1%20(375),100049B,Clamping Force (lbs),7425
+1%20(375),100049B,Type,Cylinders_CBC
+1%20(375),100049B,Action Type,Double Acting
+1%20(375),100049B,Max Operating Pressure (psi),5000
+1%20(375),100049B,Body Diameter (in),2.247
+1%20(375),100049B,Unclamping Force (lbs),4415
+1%20(376),100050B,Product Specification,Retracted Length = 3.75
+1%20(376),100050B,Clamping Force (lbs),7425
+1%20(376),100050B,Type,Cylinders_CBC
+1%20(376),100050B,Action Type,Double Acting
+1%20(376),100050B,Max Operating Pressure (psi),5000
+1%20(376),100050B,Body Diameter (in),2.247
+1%20(376),100050B,Unclamping Force (lbs),4415
+1%20(377),100055B,Product Specification,Vertical Block Mount
+1%20(377),100055B,Clamping Force (lbs),2210
+1%20(377),100055B,Action Type,Double Acting
+1%20(377),100055B,Max Operating Pressure (psi),5000
+1%20(377),100055B,Unclamping Force (lbs),1225
+1%20(378),100056B,Product Specification,Vertical Block Mount
+1%20(378),100056B,Clamping Force (lbs),2210
+1%20(378),100056B,Action Type,Double Acting
+1%20(378),100056B,Max Operating Pressure (psi),5000
+1%20(378),100056B,Unclamping Force (lbs),1225
+1%20(379),100061B,Product Specification,Vertical Block Mount
+1%20(379),100061B,Clamping Force (lbs),7425
+1%20(379),100061B,Action Type,Double Acting
+1%20(379),100061B,Max Operating Pressure (psi),5000
+1%20(379),100061B,Unclamping Force (lbs),4415
+1%20(38),9574,Type,Remote_Mounted_Control_Valve
+1%20(38),9574,Actuation Type,"230 VAC, 50/60 Hz 2.8 Amps inrush, .31 Amps holding"
+1%20(38),9574,Max Operating Pressure (psi),5000
+1%20(380),100062B,Product Specification,Vertical Block Mount
+1%20(380),100062B,Clamping Force (lbs),7425
+1%20(380),100062B,Action Type,Double Acting
+1%20(380),100062B,Max Operating Pressure (psi),5000
+1%20(380),100062B,Unclamping Force (lbs),4415
+1%20(381),100141,Holding Capacity (lbs),7500
+1%20(381),100141,Tooling Body Style,"Block Style, Manifold Mount"
+1%20(382),100143,Holding Capacity (lbs),1100
+1%20(382),100143,Tooling Body Style,"Block Style, Manifold Mount"
+1%20(383),100176,Holding Capacity (lbs),2100
+1%20(383),100176,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(384),100177,Holding Capacity (lbs),2100
+1%20(384),100177,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(385),100207,Holding Capacity (lbs),1100
+1%20(385),100207,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(386),100226,Holding Capacity (lbs),7500
+1%20(386),100226,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(387),100229,Holding Capacity (lbs),2100
+1%20(387),100229,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(388),100269,Holding Capacity (lbs),2100
+1%20(388),100269,Tooling Body Style,"Block Style, Manifold Mount"
+1%20(389),100844,Holding Capacity (lbs),7500
+1%20(389),100844,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(39),9611,Type,Remote_Mounted_Control_Valve
+1%20(39),9611,Actuation Type,50 psi min./150 psi max. air pressure
+1%20(39),9611,Max Operating Pressure (psi),5000
+1%20(390),100847,Holding Capacity (lbs),7500
+1%20(390),100847,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(391),100873,Holding Capacity (lbs),1300
+1%20(391),100873,Tooling Body Style,Threaded Body W/ Base
+1%20(392),100874,Holding Capacity (lbs),1300
+1%20(392),100874,Tooling Body Style,Threaded Body
+1%20(393),100875,Holding Capacity (lbs),1300
+1%20(393),100875,Tooling Body Style,Threaded Body W/ Base
+1%20(394),100876,Holding Capacity (lbs),1300
+1%20(394),100876,Tooling Body Style,Threaded Body
+1%20(395),100877,Holding Capacity (lbs),1300
+1%20(395),100877,Tooling Body Style,Threaded Body W/ Base
+1%20(396),100882,Holding Capacity (lbs),4000
+1%20(396),100882,Tooling Body Style,Threaded Body
+1%20(397),100883,Holding Capacity (lbs),4000
+1%20(397),100883,Tooling Body Style,Threaded Body W/ Base
+1%20(398),100884,Holding Capacity (lbs),4000
+1%20(398),100884,Tooling Body Style,Threaded Body
+1%20(399),100885,Holding Capacity (lbs),4000
+1%20(399),100885,Tooling Body Style,Threaded Body W/ Base
+1%20(4),100983,Product Specification,Capacity 5.0 cu in
+1%20(4),100983,Type,Mounting Type Manifold
+1%20(4),100983,Max Operating Pressure (psi),5000
+1%20(4),100983,Body Diameter (in),2.5
+1%20(40),9612,Type,Remote_Mounted_Control_Valve
+1%20(40),9612,Actuation Type,"115 VAC, 50/60 Hz 5.3 Amps inrush, .6 Amps holding"
+1%20(40),9612,Max Operating Pressure (psi),5000
+1%20(400),100926,Holding Capacity (lbs),7500
+1%20(400),100926,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(401),100998,Holding Capacity (lbs),7500
+1%20(401),100998,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(402),110085,Holding Capacity (lbs),2100
+1%20(402),110085,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(403),110086,Holding Capacity (lbs),2100
+1%20(403),110086,Tooling Body Style,"Block Style, Manifold Mount"
+1%20(404),110087,Holding Capacity (lbs),7500
+1%20(404),110087,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(405),110088,Holding Capacity (lbs),7500
+1%20(405),110088,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(406),110122,Holding Capacity (lbs),1300
+1%20(406),110122,Tooling Body Style,Threaded Body W/ Base (Manifold Mount)
+1%20(407),110123,Holding Capacity (lbs),4000
+1%20(407),110123,Tooling Body Style,Threaded Body W/ Base (Manifold Mount)
+1%20(408),110124,Holding Capacity (lbs),1300
+1%20(408),110124,Tooling Body Style,Threaded Body W/ Base (Manifold Mount)
+1%20(409),110125,Holding Capacity (lbs),4000
+1%20(409),110125,Tooling Body Style,Threaded Body W/ Base (Manifold Mount)
+1%20(41),100154,Type,Remote_Mounted_Control_Valve
+1%20(41),100154,Actuation Type,Manual
+1%20(41),100154,Max Operating Pressure (psi),5000
+1%20(410),110134,Holding Capacity (lbs),1300
+1%20(410),110134,Tooling Body Style,Threaded Body W/ Base
+1%20(411),110135,Holding Capacity (lbs),7500
+1%20(411),110135,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(412),110136,Holding Capacity (lbs),7500
+1%20(412),110136,Tooling Body Style,"Block Style, Conventional Mount"
+1%20(413),110139,Holding Capacity (lbs),4000
+1%20(413),110139,Tooling Body Style,Threaded Body
+1%20(414),110140,Holding Capacity (lbs),4000
+1%20(414),110140,Tooling Body Style,Threaded Body W/ Base
+1%20(415),110141,Holding Capacity (lbs),4000
+1%20(415),110141,Tooling Body Style,Threaded Body
+1%20(416),110142,Holding Capacity (lbs),4000
+1%20(416),110142,Tooling Body Style,Threaded Body W/ Base
+1%20(417),500028,Holding Capacity (lbs),4000
+1%20(418),500035,Holding Capacity (lbs),4000
+1%20(419),500036,Holding Capacity (lbs),4000
+1%20(42),100969,Type,Remote_Mounted_Control_Valve
+1%20(42),100969,Actuation Type,Manual
+1%20(42),100969,Max Operating Pressure (psi),5000
+1%20(420),100236,Product Specification,"Ansi Accuracy 1.6%, Liquid Filled Case, 100 psi Graduation"
+1%20(420),100236,Max Operating Pressure (psi),6000
+1%20(420),100236,Body Diameter (in),2.625
+1%20(421),100238,Product Specification,"Ansi Accuracy 2.00%, Dry Case, 100 psi Graduation"
+1%20(421),100238,Max Operating Pressure (psi),5000
+1%20(421),100238,Body Diameter (in),2.625
+1%20(422),100878,Product Specification,"Ansi Accuracy 2.00%, Liquid Filled Case, 50 psi Graduation"
+1%20(422),100878,Max Operating Pressure (psi),2000
+1%20(422),100878,Body Diameter (in),2.64
+1%20(423),100917,Product Specification,"Ansi Accuracy 1.6%, Liquid Filled Case, 1000 psi Graduation"
+1%20(423),100917,Max Operating Pressure (psi),6000
+1%20(423),100917,Body Diameter (in),1.77
+1%20(424),100232,Product Specification,"One Circuit , Max Oil Pressure 3000, Max Speed 250, 2 Ports"
+1%20(424),100232,Max Operating Pressure (psi),150
+1%20(424),100232,Body Diameter (in),1.5
+1%20(425),100233,Product Specification,"Two Circuits, Max Oil Pressure 3000, Max Speed 250, 4 Ports"
+1%20(425),100233,Max Operating Pressure (psi),150
+1%20(425),100233,Body Diameter (in),2.75
+1%20(427),213896,Product Specification,"Includes 107 cu in (102 cu in usable) metal reservoir, plus gasket and fasterners needed to replace the plastic reservoir on pump nos."
+1%20(428),260205,Product Specification,Includes 2.5 gal (375 cu in usable) metal reservoir with a gasket and all the hardware needed to replace the plastic reservoir on pump nos.
+1%20(429),350431,Product Specification,Combination fluid level/temperature gauge allows visual inspection of the hytec pump hydraulic fluid level
+1%20(43),100970,Type,Remote_Mounted_Control_Valve
+1%20(43),100970,Actuation Type,Manual
+1%20(43),100970,Max Operating Pressure (psi),5000
+1%20(431),100845,Product Specification,"Filtration (Nominal/Absolute) 10/- Micron, Outlet Port 1/4 NPTF"
+1%20(431),100845,Type,Inlet port size = 1/4 NPTF
+1%20(431),100845,Outside Diameter (in),2.125
+1%20(432),100857,Product Specification,"Filtration (Nominal/Absolute)10/25 Micron, Outlet Port 1/4 NPTF"
+1%20(432),100857,Type,Inlet port size = 1/4 NPTF
+1%20(432),100857,Max Operating Pressure (psi),5000
+1%20(432),100857,Outside Diameter (in),1.38
+1%20(433),100919,Product Specification,"Filtration (Nominal/Absolute)10/25 Micron, Outlet Port 7/16-20 UNF SAE-4"
+1%20(433),100919,Type,Inlet port size = 7/16-20 UNF SAE-4
+1%20(433),100919,Max Operating Pressure (psi),5000
+1%20(433),100919,Outside Diameter (in),1.38
+1%20(434),9614,Product Specification,4 Ports
+1%20(434),9614,Port Thread Size,1/4 NPTF
+1%20(434),9614,Max Operating Pressure (psi),5000
+1%20(434),9614,Depth (in),1.25
+1%20(435),36105,Product Specification,7 Ports
+1%20(435),36105,Port Thread Size,1/4 NPTF
+1%20(435),36105,Max Operating Pressure (psi),5000
+1%20(435),36105,Depth (in),1
+1%20(436),100941,Product Specification,7 Ports
+1%20(436),100941,Port Thread Size,7/16-20 UNF SAE-4
+1%20(436),100941,Max Operating Pressure (psi),5000
+1%20(436),100941,Depth (in),1
+1%20(437),100944,Product Specification,4 Ports
+1%20(437),100944,Port Thread Size,9/16-18 UNF SAE-6
+1%20(437),100944,Max Operating Pressure (psi),5000
+1%20(437),100944,Depth (in),1.25
+1%20(438),100265,Product Specification,Coupling Type = General Purpose - Assembly
+1%20(438),100265,Max Operating Pressure (psi),5000
+1%20(439),100266,Product Specification,Coupling Type = General Purpose - Male Body
+1%20(439),100266,Max Operating Pressure (psi),5000
+1%20(44),100971,Type,Manifold_Mounted_Control_Valve
+1%20(44),100971,Actuation Type,Manual
+1%20(44),100971,Max Operating Pressure (psi),5000
+1%20(440),100267,Product Specification,Coupling Type = General Purpose - Female Insert
+1%20(440),100267,Max Operating Pressure (psi),5000
+1%20(441),100907,Product Specification,Coupling Type = High Flow - Male Body
+1%20(441),100907,Max Operating Pressure (psi),5000
+1%20(442),100908,Product Specification,Coupling Type = High Flow - Female Insert
+1%20(442),100908,Max Operating Pressure (psi),5000
+1%20(443),100909,Product Specification,Coupling Type = High Flow - Assembly
+1%20(443),100909,Max Operating Pressure (psi),5000
+1%20(444),9190,Hose Length (ft),50
+1%20(444),9190,Type,Tubing
+1%20(444),9190,Outside Diameter (in),0.375
+1%20(444),9190,Inside Diameter (in),0.245
+1%20(445),9636,Product Specification,"Color (ASTM) = 2, Flash Point 400 F, Hydraulic Oil, Grade (ASTM) 215 Pour Point (deg F)= -30"
+1%20(445),9636,Type,Hydraulic_Fluid
+1%20(445),9636,Size (gal),0.25
+1%20(446),9637,Product Specification,"Color (ASTM) = 2, Flash Point 400 F, Hydraulic Oil, Grade (ASTM) 215 Pour Point (deg F)= -30"
+1%20(446),9637,Type,Hydraulic_Fluid
+1%20(446),9637,Size (gal),1
+1%20(447),9638,Product Specification,"Color (ASTM) = 2, Flash Point 400 F, Hydraulic Oil, Grade (ASTM) 215 Pour Point (deg F)= -30"
+1%20(447),9638,Type,Hydraulic_Fluid
+1%20(447),9638,Size (gal),2.5
+1%20(448),9639,Product Specification,"Color (ASTM) = Light Amber, Flash Point 500 F, Flame-Out Fir Resistant, Grade (ASTM) 220 Pour Point (deg F)= -15"
+1%20(448),9639,Type,Hydraulic_Fluid
+1%20(448),9639,Size (gal),1
+1%20(449),9645,Product Specification,"Color (ASTM) = 2, Flash Point 400 F, Environmentally Friendly Pour Point (deg F)= -22"
+1%20(449),9645,Type,Hydraulic_Fluid
+1%20(449),9645,Size (gal),1
+1%20(45),100972,Product Specification,Valve Sub-Plate Manifold
+1%20(450),9646,Product Specification,"Color (ASTM) = 2, Flash Point 400 F, Environmentally Friendly Pour Point (deg F)= -22"
+1%20(450),9646,Type,Hydraulic_Fluid
+1%20(450),9646,Size (gal),2.5
+1%20(451),100281,Product Specification,Through Hole Diameter = 0.141
+1%20(451),100281,Hose Length (ft),1
+1%20(451),100281,Type,Hose
+1%20(451),100281,Outside Diameter (in),0.62
+1%20(451),100281,Inside Diameter (in),0.25
+1%20(452),100282,Product Specification,Through Hole Diameter = 0.141
+1%20(452),100282,Hose Length (ft),2
+1%20(452),100282,Type,Hose
+1%20(452),100282,Outside Diameter (in),0.62
+1%20(452),100282,Inside Diameter (in),0.25
+1%20(453),100283,Product Specification,Through Hole Diameter = 0.141
+1%20(453),100283,Hose Length (ft),3
+1%20(453),100283,Type,Hose
+1%20(453),100283,Outside Diameter (in),0.62
+1%20(453),100283,Inside Diameter (in),0.25
+1%20(454),100285,Product Specification,Through Hole Diameter = 0.141
+1%20(454),100285,Hose Length (ft),5
+1%20(454),100285,Type,Hose
+1%20(454),100285,Outside Diameter (in),0.62
+1%20(454),100285,Inside Diameter (in),0.25
+1%20(455),100286,Product Specification,Through Hole Diameter = 0.141
+1%20(455),100286,Hose Length (ft),10
+1%20(455),100286,Type,Hose
+1%20(455),100286,Outside Diameter (in),0.62
+1%20(455),100286,Inside Diameter (in),0.25
+1%20(456),100287,Product Specification,Through Hole Diameter = 0.141
+1%20(456),100287,Hose Length (ft),15
+1%20(456),100287,Type,Hose
+1%20(456),100287,Outside Diameter (in),0.62
+1%20(456),100287,Inside Diameter (in),0.25
+1%20(457),100290,Hose Length (ft),50
+1%20(457),100290,Type,Tubing
+1%20(457),100290,Outside Diameter (in),0.25
+1%20(457),100290,Inside Diameter (in),0.18
+1%20(458),9636-12,Product Specification,"Color (ASTM) = 2, Flash Point 400 F, Hydraulic Oil, Grade (ASTM) 215 Pour Point (deg F)= -30"
+1%20(458),9636-12,Type,Hydraulic_Fluid
+1%20(458),9636-12,Size (gal),0.25
+1%20(459),9637-4,Product Specification,"Color (ASTM) = 2, Flash Point 400 F, Hydraulic Oil, Grade (ASTM) 215 Pour Point (deg F)= -30"
+1%20(459),9637-4,Type,Hydraulic_Fluid
+1%20(459),9637-4,Size (gal),1
+1%20(46),100973,Product Specification,Valve Sub-Plate Manifold
+1%20(460),9638-2,Product Specification,"Color (ASTM) = 2, Flash Point 400 F, Hydraulic Oil, Grade (ASTM) 215 Pour Point (deg F)= -30"
+1%20(460),9638-2,Type,Hydraulic_Fluid
+1%20(460),9638-2,Size (gal),2.5
+1%20(461),9639-4,Product Specification,"Color (ASTM) = Light Amber, Flash Point 500 F, Flame-Out Fir Resistant, Grade (ASTM) 220 Pour Point (deg F)= -15"
+1%20(461),9639-4,Type,Hydraulic_Fluid
+1%20(461),9639-4,Size (gal),1
+1%20(462),10430,Product Specification,Fitting Style = Compression Tube
+1%20(462),10430,Tube Size (in),0.375
+1%20(464),10617,Female Thread Size,1/8 NPTF
+1%20(464),10617,Male Thread Size,1/8 NPTF
+1%20(465),10645,Type,45 Degree Pipe Adapter
+1%20(465),10645,Female Thread Size,1/4 NPTF
+1%20(465),10645,Male Thread Size,1/4 NPTF
+1%20(466),10655,Type,45 Degree Compression Tube To Pipe
+1%20(466),10655,Tube Size (in),0.375
+1%20(467),10659,Type,Union (Compression Tube)
+1%20(467),10659,Tube Size (in),0.375
+1%20(468),10661,Type,Male Connector Compression Tube To Pipe C
+1%20(468),10661,Tube Size (in),0.375
+1%20(469),10665,Type,90 Degree Compression Tube To Pipe
+1%20(469),10665,Tube Size (in),0.375
+1%20(47),100974,Product Specification,Check Valve Sub-Plate Manifold
+1%20(470),10669,Type,Male Run Compression Tube To Pipe MRT
+1%20(470),10669,Tube Size (in),0.375
+1%20(471),10670,Type,Tee Compression Tube To Pipe MBT
+1%20(471),10670,Tube Size (in),0.375
+1%20(472),10672,Product Specification,"Port 1 Thread Size = 1/4 NPTF, Port 2 Thread Size = 1/4 NPTF"
+1%20(472),10672,Type,Male Pipe (Straight)
+1%20(473),11310,Product Specification,Swivel Thread Size 1/8 NPSM
+1%20(473),11310,Type,Swivel Apabter Pipe SA
+1%20(473),11310,Pipe Thread Size,1/4 NPTF
+1%20(474),11421,Product Specification,"Port 1 Thread Size = 1/8 NPTF, Port 2 Thread Size = 1/8 NPTF"
+1%20(474),11421,Type,Male Pipe (Straight)
+1%20(475),11628,Type,Flared Tube To Pipe (Straight)
+1%20(475),11628,Flare Thread Size,9/16-18 UNF
+1%20(475),11628,Pipe Thread Size,3/8 NPTF
+1%20(476),12328,Product Specification,"Port 1 Thread Size = 3/8 NPTF, Port 2 Thread Size = 1/4 NPTF"
+1%20(476),12328,Type,Male Pipe (Straight)
+1%20(477),12740,Type,Female Pipe Connector S
+1%20(477),12740,Pipe Thread Size,1/4 NPTF
+1%20(478),13031,Product Specification,Fitting Style = Compression Tube
+1%20(478),13031,Tube Size (in),0.25
+1%20(479),13229,Female Thread Size,1/4 NPTF
+1%20(479),13229,Male Thread Size,1/8 NPTF
+1%20(48),100975,Product Specification,Two-Station Manifold
+1%20(480),13269,Type,Reducer (Pipe)
+1%20(480),13269,Female Thread Size,1/8 NPTF
+1%20(480),13269,Male Thread Size,1/4 NPTF
+1%20(481),13864,Female Thread Size,1/4 NPTF
+1%20(481),13864,Male Thread Size,1/4 NPTF
+1%20(482),15050,Type,Male Run Compression Tube To Pipe MRT
+1%20(482),15050,Tube Size (in),0.25
+1%20(483),15052,Type,90 Degree Compression Tube To Pipe
+1%20(483),15052,Tube Size (in),0.25
+1%20(484),15053,Type,45 Degree Compression Tube To Pipe
+1%20(484),15053,Tube Size (in),0.25
+1%20(485),15054,Type,Union (Compression Tube)
+1%20(485),15054,Tube Size (in),0.25
+1%20(486),15055,Type,Tee Compression Tube To Pipe MBT
+1%20(486),15055,Tube Size (in),0.25
+1%20(487),15058,Type,Compression Tube
+1%20(487),15058,Tube Size (in),0.25
+1%20(488),15059,Type,90 Degree Elbow Compression Tube
+1%20(488),15059,Tube Size (in),0.25
+1%20(489),15060,Type,Union (Compression Tube) S
+1%20(489),15060,Tube Size (in),0.25
+1%20(49),110166,Product Specification,"4-Way, 3-Pos, Closed Center 100V"
+1%20(49),110166,Max Operating Pressure (psi),5000
+1%20(490),15061,Type,Male Connector Compression Tube To Pipe C
+1%20(490),15061,Tube Size (in),0.25
+1%20(491),15069,Product Specification,Swivel Thread Size 1/4 NPSM
+1%20(491),15069,Type,Swivel Apabter Pipe SA
+1%20(491),15069,Pipe Thread Size,1/4 NPTF
+1%20(492),15235,Type,Female To Male Pipe A
+1%20(492),15235,Female Thread Size,1/4 NPTF
+1%20(492),15235,Male Thread Size,1/8 NPTF
+1%20(495),16691,Product Specification,"Port 1 Thread Size = 1/4 NPTF, Port 2 Thread Size = 1/8 NPTF"
+1%20(495),16691,Type,Male Pipe (Straight)
+1%20(496),17278,Type,Compression Tube
+1%20(496),17278,Tube Size (in),0.375
+1%20(497),19121,Type,45 Degree Pipe Adapter
+1%20(497),19121,Female Thread Size,1/8 NPTF
+1%20(497),19121,Male Thread Size,1/8 NPTF
+1%20(498),19527,Type,ORB To Female Pipe A
+1%20(498),19527,O-Ring Boss Thread Size,9/16-18 UNF SAE-6
+1%20(498),19527,Pipe Thread Size,1/4 NPTF
+1%20(499),100169,Outside Diameter (in),0.5
+1%20(499),100169,Inside Diameter (in),0.234
+1%20(5),500149,Max Operating Pressure (psi),5000
+1%20(50),110167,Product Specification,"4-Way, 3-Pos, Closed Center 100V"
+1%20(50),110167,Max Operating Pressure (psi),5000
+1%20(500),110048,Type,Air Bleed Valve
+1%20(500),110048,Hex Width (in),0.562
+1%20(501),110049,Type,Air Bleed Valve
+1%20(501),110049,Hex Width (in),0.562
+1%20(502),205790,Type,Tee Compression Tube To Pipe MBT
+1%20(502),205790,Tube Size (in),0.25
+1%20(503),205791,Type,Male Run Compression Tube To Pipe MRT
+1%20(503),205791,Tube Size (in),0.25
+1%20(504),205792,Type,90 Degree Compression Tube To Pipe
+1%20(504),205792,Tube Size (in),0.25
+1%20(506),206330,Product Specification,Cracking Pressure = 5
+1%20(506),206330,Type,Check Valve
+1%20(506),206330,Hex Width (in),0.75
+1%20(507),210312,Type,ORB To Female Pipe A
+1%20(507),210312,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(507),210312,Pipe Thread Size,1/4 NPTF
+1%20(508),215373,Product Specification,"Port 1 Thread Size = 1/8 NPTF, Port 2 Thread Size = 1/16 NPTF"
+1%20(508),215373,Type,Male Pipe (Straight)
+1%20(509),216437,Type,Metering Valve
+1%20(509),216437,Hex Width (in),0.75
+1%20(509),216437,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(509),216437,Pipe Thread Size,1/4 NPTF
+1%20(51),110168,Product Specification,"3-Way, 2-Pos, 110V"
+1%20(51),110168,Max Operating Pressure (psi),5000
+1%20(510),250211,Type,90 Degree Elbow Compression Tube
+1%20(510),250211,Tube Size (in),0.375
+1%20(511),250212,Type,Union (Compression Tube) S
+1%20(511),250212,Tube Size (in),0.375
+1%20(512),250605,Type,90 Degree Flared Tube To ORB
+1%20(512),250605,Flare Thread Size,7/16-20 UNF
+1%20(512),250605,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(513),250685,Type,Male Connector Compression Tube To ORB C
+1%20(513),250685,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(513),250685,Tube Size (in),0.25
+1%20(514),250686,Type,Male Connector Compression Tube To ORB C
+1%20(514),250686,O-Ring Boss Thread Size,9/16-18 UNF SAE-6
+1%20(514),250686,Tube Size (in),0.375
+1%20(515),250687,Type,90 Degree Elbow Compression Tube To ORB
+1%20(515),250687,Tube Size (in),0.25
+1%20(516),250688,Type,90 Degree Elbow Compression Tube To ORB
+1%20(516),250688,Tube Size (in),0.375
+1%20(517),250689,Type,Tee Compression Tube To ORB MBT
+1%20(517),250689,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(517),250689,Tube Size (in),0.25
+1%20(518),250690,Product Specification,Swivel Thread Size 1/4 NPSM
+1%20(518),250690,Type,Swivel Apabter ORB SA
+1%20(518),250690,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(519),250691,Product Specification,Swivel Thread Size 3/8 NPSM
+1%20(519),250691,Type,Swivel Apabter ORB SA
+1%20(519),250691,O-Ring Boss Thread Size,9/16-18 UNF SAE-6
+1%20(52),110169,Product Specification,"3-Way, 2-Pos, 24V DC"
+1%20(52),110169,Max Operating Pressure (psi),5000
+1%20(520),250692,Product Specification,Swivel Thread Size 1/4 NPSM
+1%20(520),250692,Type,90 Degree Swivel Adapter
+1%20(520),250692,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(522),251827,Type,Accumulator Metering Valve
+1%20(522),251827,Flare Thread Size,9/16-18 UNF
+1%20(522),251827,Hex Width (in),0.75
+1%20(522),251827,Pipe Thread Size,1/4 NPT
+1%20(523),252128,Type,Female To Male Pipe A
+1%20(523),252128,Female Thread Size,7/16-20 UNF SAE-4
+1%20(523),252128,Male Thread Size,1/4 NPTF
+1%20(524),252586,Type,Accumulator Metering Valve
+1%20(524),252586,Flare Thread Size,9/16-18 UNF
+1%20(524),252586,Hex Width (in),0.75
+1%20(525),252996,Type,Male Tee (37 Deg Flare)
+1%20(526),252997,Type,Male Tee (37 Deg Flare)
+1%20(527),252998,Type,Female Tee (Pipe)
+1%20(528),252999,Type,Flared Tube
+1%20(529),253000,Type,Flared Tube
+1%20(53),500171,Product Specification,"Check Valve Location Outlet, Cracking Pressure = 2"
+1%20(53),500171,Hex Width (in),0.75
+1%20(530),253001,Type,Female Pipe
+1%20(531),253007,Type,90 Degree Elbow 37 Degree Flared Tube
+1%20(532),253008,Type,90 Degree Elbow 37 Degree Flared Tube
+1%20(533),253009,Type,90 Degree Flared Tube To Pipe
+1%20(533),253009,Flare Thread Size,7/16-20 UNF
+1%20(533),253009,Pipe Thread Size,1/4 NPTF
+1%20(534),253010,Type,90 Degree Flared Tube To Pipe
+1%20(534),253010,Flare Thread Size,9/16-18 UNF
+1%20(534),253010,Pipe Thread Size,3/8 NPTF
+1%20(535),253011,Type,90 Degree Flared Tube To ORB
+1%20(535),253011,Flare Thread Size,9/16-18 UNF
+1%20(535),253011,O-Ring Boss Thread Size,9/16-18 UNF SAE-6
+1%20(536),253012,Type,90 Degree Flared Tube To ORB
+1%20(536),253012,Flare Thread Size,9/16-18 UNF
+1%20(536),253012,O-Ring Boss Thread Size,3/4-16 UNF SAE-8
+1%20(537),253013,Type,90 Degree Flared Tube To ORB
+1%20(537),253013,Flare Thread Size,9/16-18 UNF
+1%20(537),253013,O-Ring Boss Thread Size,7/8-14 UNF SAE-10
+1%20(538),253014,Type,45 Degree Flared Tube To Pipe
+1%20(538),253014,Flare Thread Size,7/16-20 UNF
+1%20(538),253014,Pipe Thread Size,1/4 NPTF
+1%20(539),253015,Type,45 degree Flared Tube To ORB
+1%20(539),253015,Flare Thread Size,7/16-20 UNF
+1%20(539),253015,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(54),500172,Product Specification,"Check Valve Location Inlet, Cracking Pressure = 2"
+1%20(54),500172,Hex Width (in),0.75
+1%20(540),253016,Type,45 Degree Flared Tube To Pipe
+1%20(540),253016,Flare Thread Size,9/16-18 UNF
+1%20(540),253016,Pipe Thread Size,1/4 NPTF
+1%20(541),253017,Type,45 Degree Flared Tube To Pipe
+1%20(541),253017,Flare Thread Size,9/16-18 UNF
+1%20(541),253017,Pipe Thread Size,3/8 NPTF
+1%20(542),253018,Type,45 degree Flared Tube To ORB
+1%20(542),253018,Flare Thread Size,9/16-18 UNF
+1%20(542),253018,O-Ring Boss Thread Size,9/16-18 UNF SAE-6
+1%20(543),253019,Type,Flared Tube To Pipe (Straight)
+1%20(543),253019,Flare Thread Size,7/16-20 UNF
+1%20(543),253019,Pipe Thread Size,1/8 NPTF
+1%20(544),253020,Type,Flared Tube to ORB S
+1%20(544),253020,Flare Thread Size,7/16-20 UNF
+1%20(544),253020,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(545),253021,Type,Flared Tube to ORB S
+1%20(545),253021,Flare Thread Size,9/16-18 UNF
+1%20(545),253021,O-Ring Boss Thread Size,9/16-18 UNF SAE-6
+1%20(546),253022,Type,Male Run Flared Tube To Pipe MRT
+1%20(546),253022,Flare Thread Size,7/16-20 UNF
+1%20(546),253022,Pipe Thread Size,1/8 NPTF
+1%20(547),253023,Type,Male Run Flared Tube To Pipe MRT
+1%20(547),253023,Flare Thread Size,7/16-20 UNF
+1%20(547),253023,Pipe Thread Size,1/4 NPTF
+1%20(548),253024,Type,Male Branch Tee Flared Tube To ORB MBT
+1%20(548),253024,Flare Thread Size,7/16-20 UNF
+1%20(548),253024,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(549),253025,Type,Male Run Flared Tube To Pipe MRT
+1%20(549),253025,Flare Thread Size,9/16-18 UNF
+1%20(549),253025,Pipe Thread Size,1/4 NPTF
+1%20(55),500173,Product Specification,"Check Valve Location Outlet, Cracking Pressure = 2"
+1%20(55),500173,Hex Width (in),0.625
+1%20(550),253026,Type,Male Run Flared Tube To Pipe MRT
+1%20(550),253026,Flare Thread Size,9/16-18 UNF
+1%20(550),253026,Pipe Thread Size,3/8 NPTF
+1%20(551),253027,Type,Male Branch Tee Flared Tube To ORB MBT
+1%20(551),253027,Flare Thread Size,7/16-20 UNF
+1%20(551),253027,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(552),253028,Type,Male Branch Flared Tube To Pipe MBT
+1%20(552),253028,Flare Thread Size,7/16-20 UNF
+1%20(552),253028,Pipe Thread Size,1/8 NPTF
+1%20(553),253029,Type,Male Branch Tee Flared Tube To ORB MBT
+1%20(553),253029,Flare Thread Size,7/16-20 UNF
+1%20(553),253029,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(554),253030,Type,Male Branch Flared Tube To Pipe MBT
+1%20(554),253030,Flare Thread Size,9/16-18 UNF
+1%20(554),253030,Pipe Thread Size,1/4 NPTF
+1%20(555),253031,Type,Male Branch Tee Flared Tube To ORB MBT
+1%20(555),253031,Flare Thread Size,7/16-20 UNF
+1%20(555),253031,O-Ring Boss Thread Size,9/16-18 UNF SAE-6
+1%20(556),253032,Hex Width (in),0.562
+1%20(557),253033,Hex Width (in),0.687
+1%20(558),253076,Type,Flared Tube To Pipe (Straight)
+1%20(558),253076,Flare Thread Size,7/16-20 UNF
+1%20(558),253076,Pipe Thread Size,1/4 NPT
+1%20(559),253078,Type,Air Bleed Valve
+1%20(559),253078,Hex Width (in),0.312
+1%20(56),500174,Product Specification,"Check Valve Location Inlet, Cracking Pressure = 2"
+1%20(56),500174,Hex Width (in),0.625
+1%20(560),253174,Type,Flared Tube To Pipe (Straight)
+1%20(560),253174,Flare Thread Size,9/16-18 UNF
+1%20(560),253174,Pipe Thread Size,1/4 NPTF
+1%20(561),253175,Type,90 Degree Flared Tube To Pipe
+1%20(561),253175,Flare Thread Size,7/16-20 UNF
+1%20(561),253175,Pipe Thread Size,1/8 NPTF
+1%20(562),253288,Type,BSPP To Female ORB
+1%20(562),253288,O-Ring Boss Thread Size,7/16-20 UNF SAE-4
+1%20(562),253288,Pipe Thread Size,1/4 BSPP
+1%20(563),253301,Product Specification,Fitting Style = 37 Degree Flare
+1%20(563),253301,Tube Size (in),0.25
+1%20(564),351816,Type,Male To Female ORB
+1%20(564),351816,Female Thread Size,7/16-20 UNF SAE-4
+1%20(564),351816,Male Thread Size,5/16-24 UNC SAE-2
+1%20(57),500175,Type,Remote_Mounted_Control_Valve
+1%20(58),15066,Port Thread Size,1/4 NPTF
+1%20(58),15066,Actuation Type,Manual
+1%20(58),15066,Max Operating Pressure (psi),5000
+1%20(59),15068,Port Thread Size,1/4 NPTF
+1%20(59),15068,Actuation Type,Manual
+1%20(59),15068,Max Operating Pressure (psi),5000
+1%20(6),500177,Max Operating Pressure (psi),5000
+1%20(60),100915,Product Specification,"Replacable, cartridge design valve, filters in all three ports protect the check valve and downstream components."
+1%20(60),100915,Max Operating Pressure (psi),5000
+1%20(61),100984,Port Thread Size,1/4 NPTF
+1%20(61),100984,Actuation Type,Manual
+1%20(61),100984,Max Operating Pressure (psi),5000
+1%20(62),100985,Port Thread Size,7/16-20 UNF SAE-4
+1%20(62),100985,Actuation Type,Manual
+1%20(62),100985,Max Operating Pressure (psi),5000
+1%20(63),253605,Port Thread Size,1/4 NPTF
+1%20(63),253605,Actuation Type,Manual
+1%20(63),253605,Max Operating Pressure (psi),5000
+1%20(64),100991,Product Specification,"Dump Valve, Input Pressure Max 1560, Input Pressure Min 300"
+1%20(64),100991,Max Flow Rate (cu in/min),610
+1%20(64),100991,Pressure Ratio,3.2 : 1
+1%20(64),100991,Type,Hydraulic_Intensifier_AC
+1%20(64),100991,Max Operating Pressure (psi),5000
+1%20(64),100991,Max Outlet Flow Rate (cu in/min),150
+1%20(65),100992,Product Specification,"Dump Valve, Input Pressure Max 1250, Input Pressure Min 300"
+1%20(65),100992,Max Flow Rate (cu in/min),580
+1%20(65),100992,Pressure Ratio,4.0 : 1
+1%20(65),100992,Type,Hydraulic_Intensifier_AC
+1%20(65),100992,Max Operating Pressure (psi),5000
+1%20(65),100992,Max Outlet Flow Rate (cu in/min),120
+1%20(66),100993,Product Specification,"No Dump Valve, Input Pressure Max 1000, Input Pressure Min 300"
+1%20(66),100993,Max Flow Rate (cu in/min),550
+1%20(66),100993,Pressure Ratio,5.0 : 1
+1%20(66),100993,Type,Hydraulic_Intensifier_AC
+1%20(66),100993,Max Operating Pressure (psi),5000
+1%20(66),100993,Max Outlet Flow Rate (cu in/min),95
+1%20(67),100994,Product Specification,"No Dump Valve, Input Pressure Max 1560, Input Pressure Min 300"
+1%20(67),100994,Max Flow Rate (cu in/min),610
+1%20(67),100994,Pressure Ratio,3.2 : 1
+1%20(67),100994,Type,Hydraulic_Intensifier_AC
+1%20(67),100994,Max Operating Pressure (psi),5000
+1%20(67),100994,Max Outlet Flow Rate (cu in/min),150
+1%20(68),100995,Product Specification,"No Dump Valve, Input Pressure Max 1250, Input Pressure Min 300"
+1%20(68),100995,Max Flow Rate (cu in/min),580
+1%20(68),100995,Pressure Ratio,4.0 : 1
+1%20(68),100995,Type,Hydraulic_Intensifier_AC
+1%20(68),100995,Max Operating Pressure (psi),5000
+1%20(68),100995,Max Outlet Flow Rate (cu in/min),120
+1%20(69),100996,Product Specification,"No Dump Valve, Input Pressure Max 1000, Input Pressure Min 300"
+1%20(69),100996,Max Flow Rate (cu in/min),550
+1%20(69),100996,Pressure Ratio,5.0 : 1
+1%20(69),100996,Type,Hydraulic_Intensifier_AC
+1%20(69),100996,Max Operating Pressure (psi),5000
+1%20(69),100996,Max Outlet Flow Rate (cu in/min),95
+1%20(7),100179,Input Voltage (vac),115
+1%20(7),100179,Type,Palletized_System
+1%20(7),100179,Power Dissipation (hp),0.5
+1%20(7),100179,Max Operating Pressure (psi),5000
+1%20(7),100179,Rated Speed (rpm),3450
+1%20(70),100997,Type,Hydraulic_Intensifier_Block
+1%20(70),100997,Max Operating Pressure (psi),5000
+1%20(71),100155,Input Voltage (vac),460
+1%20(71),100155,Power Dissipation (hp),1
+1%20(71),100155,Rated Speed (rpm),1725
+1%20(72),100178,Input Voltage (vac),115
+1%20(72),100178,Power Dissipation (hp),0.5
+1%20(72),100178,Rated Speed (rpm),3450
+1%20(73),100211,Input Voltage (vac),115
+1%20(73),100211,Power Dissipation (hp),2
+1%20(73),100211,Rated Speed (rpm),1725
+1%20(74),100213,Input Voltage (vac),460
+1%20(74),100213,Power Dissipation (hp),2
+1%20(74),100213,Rated Speed (rpm),1725
+1%20(75),100220,Input Voltage (vac),115
+1%20(75),100220,Power Dissipation (hp),1.5
+1%20(75),100220,Rated Speed (rpm),12000
+1%20(76),100186,Input Voltage (vac),115
+1%20(76),100186,Power Dissipation (hp),1
+1%20(76),100186,Rated Speed (rpm),1725
+1%20(77),100155-230,Input Voltage (vac),230
+1%20(77),100155-230,Power Dissipation (hp),1
+1%20(77),100155-230,Rated Speed (rpm),1725
+1%20(78),100178-230,Input Voltage (vac),230
+1%20(78),100178-230,Power Dissipation (hp),0.5
+1%20(78),100178-230,Rated Speed (rpm),3450
+1%20(79),100186-230,Input Voltage (vac),230
+1%20(79),100186-230,Power Dissipation (hp),1
+1%20(79),100186-230,Rated Speed (rpm),1725
+1%20(8),100212,Product Specification,"2 hp, 1,725 rpm, 115/230 vac, 27/14 amps max, 50/60 hz, Single Phase"
+1%20(8),100212,Min Operating Pressure (psi),1000
+1%20(8),100212,Max Operating Pressure (psi),5000
+1%20(80),100211-230,Input Voltage (vac),230
+1%20(80),100211-230,Power Dissipation (hp),2
+1%20(80),100211-230,Rated Speed (rpm),1725
+1%20(81),100213-230,Input Voltage (vac),230
+1%20(81),100213-230,Power Dissipation (hp),2
+1%20(81),100213-230,Rated Speed (rpm),1725
+1%20(82),100220-230,Input Voltage (vac),230
+1%20(82),100220-230,Power Dissipation (hp),1.5
+1%20(82),100220-230,Rated Speed (rpm),12000
+1%20(83),58219,Product Specification,NPT Thread
+1%20(83),58219,Min Operating Pressure (psi),1050
+1%20(83),58219,Max Operating Pressure (psi),4475
+1%20(84),100174,Product Specification,NPTF Thread Piston Diameter 0.5 in
+1%20(84),100174,Min Operating Pressure (psi),925
+1%20(84),100174,Max Operating Pressure (psi),3325
+1%20(85),100190,Product Specification,NPTF Thread Piston Diameter 0.437 in
+1%20(85),100190,Min Operating Pressure (psi),1050
+1%20(85),100190,Max Operating Pressure (psi),4475
+1%20(86),100191,Product Specification,NPTF Thread Piston Diameter 0.75 in
+1%20(86),100191,Min Operating Pressure (psi),400
+1%20(86),100191,Max Operating Pressure (psi),1500
+1%20(87),100200,Product Specification,NPTF Thread Piston Diameter 0.75 / 0.437 in
+1%20(87),100200,Min Operating Pressure (psi),1500
+1%20(87),100200,Max Operating Pressure (psi),4475
+1%20(88),100280,Product Specification,NPT Thread
+1%20(88),100280,Min Operating Pressure (psi),1050
+1%20(88),100280,Max Operating Pressure (psi),4475
+1%20(89),100918,Product Specification,NPT Thread
+1%20(89),100918,Min Operating Pressure (psi),925
+1%20(89),100918,Max Operating Pressure (psi),3325
+1%20(9),100221,Product Specification,"2 hp, 1,725 rpm, 230/460 vac, 6.6/3.3 amps max, 50/60 hz, Three Phase"
+1%20(9),100221,Min Operating Pressure (psi),1000
+1%20(9),100221,Max Operating Pressure (psi),5000
+1%20(90),100920,Product Specification,NPTF Thread
+1%20(90),100920,Min Operating Pressure (psi),1500
+1%20(90),100920,Max Operating Pressure (psi),5000
+1%20(91),100921,Product Specification,NPT Thread
+1%20(91),100921,Min Operating Pressure (psi),1500
+1%20(91),100921,Max Operating Pressure (psi),5000
+1%20(92),100922,Product Specification,NPTF Thread
+1%20(92),100922,Min Operating Pressure (psi),1050
+1%20(92),100922,Max Operating Pressure (psi),5000
+1%20(93),100987,Product Specification,NPT Thread
+1%20(93),100987,Min Operating Pressure (psi),925
+1%20(93),100987,Max Operating Pressure (psi),3325
+1%20(94),100114,Mounting Thread Size,1-7/8 - 16UN
+1%20(95),100127,Mounting Thread Size,1-1/4 - 12UN
+1%20(96),100839,Clamping Force (lbs),11180
+1%20(97),100841,Clamp Body Style,Threaded
+1%20(97),100841,Clamping Force (lbs),2400
+1%20(97),100841,Clamp Port Size,1/8 NPTF
+1%20(97),100841,Action Type,Double Acting
+1%20(97),100841,Direction Of Rotation,Left
+1%20(97),100841,Mounting Thread Size,1-7/8 - 16UN
+1%20(98),100842,Clamp Body Style,Threaded
+1%20(98),100842,Clamping Force (lbs),2400
+1%20(98),100842,Clamp Port Size,1/8 NPTF
+1%20(98),100842,Action Type,Double Acting
+1%20(98),100842,Direction Of Rotation,Right
+1%20(98),100842,Mounting Thread Size,1-7/8 - 16UN
+1%20(99),100848,Clamp Body Style,Threaded
+1%20(99),100848,Clamping Force (lbs),2400
+1%20(99),100848,Clamp Port Size,1/8 NPTF
+1%20(99),100848,Action Type,Double Acting
+1%20(99),100848,Direction Of Rotation,Left
+1%20(99),100848,Mounting Thread Size,1-7/8 - 16UN
+1,100138,Product Specification,Capacity 2.0 cu in
+1,100138,Type,Mounting Type Conventional
+1,100138,Max Operating Pressure (psi),5000
+1,100138,Body Diameter (in),2.5

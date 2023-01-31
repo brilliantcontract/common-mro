@@ -60,6 +60,7 @@ WHERE ROWID NOT IN (
     GROUP BY unify_catalog_number(catalog_number)
 );
 
+-- Remove duplicate products groupped by CATALOG_NUMBER
 DELETE FROM raw_attributes
 WHERE ROWID NOT IN (
     SELECT MIN(ROWID)
@@ -74,7 +75,10 @@ on (unify_catalog_number(a.catalog_number) = unify_catalog_number(b.catalog_numb
 when matched then update set b.id = a.id;
 
 delete from raw_attributes
-where id is null;
+where
+    id is null
+    or attributes is null
+;
 
 delete from raw_attributes
 where category != 'linkbelt';
@@ -97,5 +101,3 @@ UPDATE preliminary_attributes
 SET
     attribute_name = attributes_pkg.clean_up_attribute_name(attribute_name)
     , attribute_value = attributes_pkg.clean_up_attribute_value(attribute_value);
-
-
