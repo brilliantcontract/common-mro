@@ -1,0 +1,3 @@
+[submodule "applications/html-code-validator"]
+	path = applications/html-code-validator
+	url = https://github.com/brilliantcontract/html-code-validator.git
