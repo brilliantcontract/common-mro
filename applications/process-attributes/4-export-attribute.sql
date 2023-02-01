@@ -14,25 +14,16 @@ SELECT
 FROM preliminary_attributes
 WHERE
     attribute_name in (
-        'Height (in)'
-        , 'Width (in)'
-        , 'Double-Sided'
-        , 'Header'
-        , 'Legend'
-        , 'Sign Material'
-        , 'Sign Shape'
-        , 'Sign Background Color'
-        , 'Color'
-        , 'Overall Length (in)'
-        , 'Overall Width (in)'
-        , 'Material'
-        , 'Overall Height (in)'
-        , 'Depth (in)'
-        , 'Length (in)'
-        , 'Finish'
+        SELECT
+            attribute_name
+        FROM accepted_attributes_by_mro
     )
     AND id IS NOT NULL
-GROUP BY id;
+GROUP BY
+    id
+HAVING
+    LENGTH(LISTAGG(attribute_name || ':' || attribute_value, '|') WITHIN GROUP (ORDER BY attribute_name)) > 0
+;
 
 
 -- Export detail attributes
@@ -42,24 +33,15 @@ SELECT
 FROM preliminary_attributes
 WHERE
     attribute_name NOT IN (
-        'Height (in)'
-        , 'Width (in)'
-        , 'Double-Sided'
-        , 'Header'
-        , 'Legend'
-        , 'Sign Material'
-        , 'Sign Shape'
-        , 'Sign Background Color'
-        , 'Color'
-        , 'Overall Length (in)'
-        , 'Overall Width (in)'
-        , 'Material'
-        , 'Overall Height (in)'
-        , 'Depth (in)'
-        , 'Length (in)'
-        , 'Finish'
+        SELECT
+            attribute_name
+        FROM accepted_attributes_by_mro
     )
-GROUP BY id;
+GROUP BY
+    id
+HAVING
+    LENGTH(LISTAGG(attribute_name || ':' || attribute_value, '|') WITHIN GROUP (ORDER BY attribute_name)) > 0
+;
 
 
 SELECT
